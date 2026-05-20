@@ -1,0 +1,647 @@
+{
+  "_type": "dienst",
+  "title": {
+    "nl": "Belastingaangifte",
+    "en": "Tax Return Services",
+    "tr": "Vergi Beyannameleri"
+  },
+  "shortTitle": {
+    "nl": "Belastingaangifte",
+    "en": "Tax Returns",
+    "tr": "Vergi Beyannameleri"
+  },
+  "slug": {
+    "nl": { "current": "belastingaangifte" },
+    "en": { "current": "tax-return-services" },
+    "tr": { "current": "vergi-beyannameleri" }
+  },
+  "icon": "FileOutput",
+  "order": 6,
+  "showOnHome": true,
+
+  "eyebrow": {
+    "nl": "Belastingaangifte laten verzorgen",
+    "en": "Have your tax returns handled",
+    "tr": "Vergi beyannamelerinizi profesyonelce hazırlatın"
+  },
+
+  "subtitle": {
+    "nl": "BTW-, inkomsten- en vennootschapsbelasting correct en op tijd ingediend.",
+    "en": "VAT, income tax and corporate tax returns filed accurately and on time.",
+    "tr": "KDV, gelir ve kurumlar vergisi beyannameleri doğru ve zamanında hazırlanır."
+  },
+
+  "description": {
+    "nl": "Wij verzorgen uw belastingaangiftes zorgvuldig en signaleren direct fiscale kansen om uw belastingdruk te verlagen.",
+    "en": "We prepare your tax returns accurately and identify opportunities to reduce your tax burden.",
+    "tr": "Vergi beyannamelerinizi özenle hazırlıyor ve vergi yükünüzü azaltacak fırsatları belirliyoruz."
+  },
+
+  "badgeTitle": {
+    "nl": "Correct en op tijd",
+    "en": "Accurate and on time",
+    "tr": "Doğru ve zamanında"
+  },
+
+  "badgeSubtitle": {
+    "nl": "Inclusief fiscaal advies",
+    "en": "Including tax advice",
+    "tr": "Vergi danışmanlığı dahil"
+  },
+
+  "microTrust": {
+    "nl": "Geen stress over deadlines of fiscale verrassingen.",
+    "en": "No stress about deadlines or tax surprises.",
+    "tr": "Son tarihler ve vergi sürprizleri konusunda endişe yok."
+  },
+
+  "location": {
+    "nl": "Voor ondernemers en particulieren in Amsterdam en heel Nederland.",
+    "en": "For entrepreneurs and individuals throughout the Netherlands.",
+    "tr": "Amsterdam ve tüm Hollanda'daki girişimciler ve bireyler için."
+  },
+
+  "primaryCtaText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule a free consultation",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın"
+  },
+
+  "primaryCtaLink": "/contact",
+
+  "secondaryCtaText": {
+    "nl": "Bekijk tarieven",
+    "en": "View pricing",
+    "tr": "Fiyatları görüntüle"
+  },
+
+  "secondaryCtaLink": "/pakketten",
+
+  "trustItems": [
+    {
+      "label": {
+        "nl": "Altijd op tijd ingediend",
+        "en": "Always filed on time",
+        "tr": "Her zaman zamanında teslim"
+      }
+    },
+    {
+      "label": {
+        "nl": "Fiscaal geoptimaliseerd",
+        "en": "Tax optimized",
+        "tr": "Vergi açısından optimize edilmiş"
+      }
+    },
+    {
+      "label": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    }
+  ],
+
+  "stats": [
+    {
+      "value": "1.000+",
+      "label": {
+        "nl": "Aangiftes per jaar",
+        "en": "Tax returns per year",
+        "tr": "Yıllık beyanname sayısı"
+      },
+      "icon": "FileCheck"
+    },
+    {
+      "value": "24u",
+      "label": {
+        "nl": "Reactietijd",
+        "en": "Response time",
+        "tr": "Yanıt süresi"
+      },
+      "icon": "Clock"
+    },
+    {
+      "value": "Vanaf €95",
+      "label": {
+        "nl": "Per aangifte",
+        "en": "Per return",
+        "tr": "Beyanname başına"
+      },
+      "icon": "Euro"
+    }
+  ],
+
+  "testimonial": {
+    "quote": {
+      "nl": "Unit AA zorgt ervoor dat onze belastingaangiftes altijd correct en op tijd worden ingediend.",
+      "en": "Unit AA ensures our tax returns are always filed accurately and on time.",
+      "tr": "Unit AA vergi beyannamelerimizi her zaman doğru ve zamanında hazırlıyor."
+    },
+    "author": "Selim Arslan",
+    "company": "E-commerce ondernemer"
+  },
+
+  "shortDesc": {
+    "nl": "Professionele belastingaangiftes inclusief fiscaal advies.",
+    "en": "Professional tax returns including tax advice.",
+    "tr": "Vergi danışmanlığı dahil profesyonel beyanname hizmeti."
+  },
+
+  "longDesc": {
+    "nl": [
+      {
+        "_type": "block",
+        "_key": "longdesc-nl-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-nl-1a",
+            "text": "Belastingaangiftes vragen om nauwkeurigheid en actuele fiscale kennis. Wij verzorgen uw aangiftes correct en op tijd en signaleren direct kansen om belasting te besparen."
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "_type": "block",
+        "_key": "longdesc-en-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-en-1a",
+            "text": "Tax returns require precision and up-to-date tax knowledge. We prepare your returns accurately and identify opportunities to reduce your tax burden."
+          }
+        ]
+      }
+    ],
+    "tr": [
+      {
+        "_type": "block",
+        "_key": "longdesc-tr-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-tr-1a",
+            "text": "Vergi beyannameleri hassasiyet ve güncel vergi bilgisi gerektirir. Beyannamelerinizi doğru şekilde hazırlıyor ve vergi tasarrufu fırsatlarını belirliyoruz."
+          }
+        ]
+      }
+    ]
+  },
+
+  "introTrustItems": [
+    {
+      "label": {
+        "nl": "BTW-aangiftes",
+        "en": "VAT returns",
+        "tr": "KDV beyannameleri"
+      }
+    },
+    {
+      "label": {
+        "nl": "Inkomstenbelasting",
+        "en": "Income tax returns",
+        "tr": "Gelir vergisi beyannameleri"
+      }
+    },
+    {
+      "label": {
+        "nl": "Vennootschapsbelasting",
+        "en": "Corporate tax returns",
+        "tr": "Kurumlar vergisi beyannameleri"
+      }
+    },
+    {
+      "label": {
+        "nl": "Fiscaal advies",
+        "en": "Tax advice",
+        "tr": "Vergi danışmanlığı"
+      }
+    }
+  ],
+
+  "pricing": {
+    "startingPrice": "95",
+    "priceSuffix": {
+      "nl": "per aangifte",
+      "en": "per return",
+      "tr": "beyanname başına"
+    },
+    "priceNote": {
+      "nl": "Afhankelijk van het type en de complexiteit van de aangifte.",
+      "en": "Depending on the type and complexity of the return.",
+      "tr": "Beyanname türüne ve karmaşıklığına bağlıdır."
+    }
+  },
+
+  "ctaText": {
+    "nl": "Meer informatie",
+    "en": "More information",
+    "tr": "Daha fazla bilgi"
+  },
+
+  "includedEyebrow": {
+    "nl": "Wat is inbegrepen",
+    "en": "What is included",
+    "tr": "Neler dahil"
+  },
+
+  "includedTitle": {
+    "nl": "Alles wat u nodig heeft voor zorgeloze belastingaangiftes.",
+    "en": "Everything you need for worry-free tax returns.",
+    "tr": "Sorunsuz vergi beyannameleri için ihtiyacınız olan her şey."
+  },
+
+  "includedSubtitle": {
+    "nl": "Van voorbereiding en controle tot indiening en fiscaal advies.",
+    "en": "From preparation and review to filing and tax advice.",
+    "tr": "Hazırlık, kontrol, teslim ve vergi danışmanlığı dahil."
+  },
+
+  "includedItems": [
+    {
+      "title": {
+        "nl": "BTW-aangiftes",
+        "en": "VAT returns",
+        "tr": "KDV beyannameleri"
+      },
+      "description": {
+        "nl": "Correcte en tijdige btw-aangiftes.",
+        "en": "Accurate and timely VAT returns.",
+        "tr": "Doğru ve zamanında KDV beyannameleri."
+      },
+      "icon": "Receipt"
+    },
+    {
+      "title": {
+        "nl": "Inkomstenbelasting",
+        "en": "Income tax returns",
+        "tr": "Gelir vergisi"
+      },
+      "description": {
+        "nl": "Aangifte voor zzp'ers, ondernemers en particulieren.",
+        "en": "Returns for freelancers, entrepreneurs and individuals.",
+        "tr": "Serbest çalışanlar, girişimciler ve bireyler için."
+      },
+      "icon": "User"
+    },
+    {
+      "title": {
+        "nl": "Vennootschapsbelasting",
+        "en": "Corporate tax returns",
+        "tr": "Kurumlar vergisi"
+      },
+      "description": {
+        "nl": "Vpb-aangifte voor BV's en holdings.",
+        "en": "Corporate tax returns for BVs and holding companies.",
+        "tr": "BV ve holdingler için kurumlar vergisi beyannamesi."
+      },
+      "icon": "Building2"
+    },
+    {
+      "title": {
+        "nl": "Voorlopige aanslagen",
+        "en": "Provisional assessments",
+        "tr": "Geçici vergi hesaplamaları"
+      },
+      "description": {
+        "nl": "Aanvragen of wijzigen van voorlopige aanslagen.",
+        "en": "Requesting or adjusting provisional tax assessments.",
+        "tr": "Geçici vergi hesaplamalarının düzenlenmesi."
+      },
+      "icon": "Calculator"
+    },
+    {
+      "title": {
+        "nl": "Fiscaal advies",
+        "en": "Tax advice",
+        "tr": "Vergi danışmanlığı"
+      },
+      "description": {
+        "nl": "Praktische aanbevelingen om belasting te besparen.",
+        "en": "Practical recommendations to save tax.",
+        "tr": "Vergi tasarrufu için pratik öneriler."
+      },
+      "icon": "Shield"
+    },
+    {
+      "title": {
+        "nl": "Bezwaar en correcties",
+        "en": "Objections and corrections",
+        "tr": "İtiraz ve düzeltmeler"
+      },
+      "description": {
+        "nl": "Ondersteuning bij correcties en bezwaarschriften.",
+        "en": "Support with corrections and objections.",
+        "tr": "Düzeltmeler ve itirazlar için destek."
+      },
+      "icon": "FilePen"
+    }
+  ],
+
+  "includedFootnote": {
+    "nl": "Inclusief controle, indiening en fiscaal advies.",
+    "en": "Including review, filing and tax advice.",
+    "tr": "Kontrol, teslim ve vergi danışmanlığı dahildir."
+  },
+
+  "benefitsEyebrow": {
+    "nl": "Waarom Unit AA?",
+    "en": "Why Unit AA?",
+    "tr": "Neden Unit AA?"
+  },
+
+  "benefitsTitle": {
+    "nl": "Minder belastingstress, meer fiscale kansen.",
+    "en": "Less tax stress, more tax opportunities.",
+    "tr": "Daha az vergi stresi, daha fazla fırsat."
+  },
+
+  "benefitsSubtitle": {
+    "nl": "Wij zorgen voor correcte aangiftes en optimale fiscale benutting.",
+    "en": "We ensure accurate returns and optimal tax planning.",
+    "tr": "Doğru beyannameler ve optimum vergi planlaması sağlıyoruz."
+  },
+
+  "benefits": [
+    {
+      "title": {
+        "nl": "Geen gemiste deadlines",
+        "en": "No missed deadlines",
+        "tr": "Kaçırılan son tarih yok"
+      },
+      "description": {
+        "nl": "Uw aangiftes worden altijd op tijd ingediend.",
+        "en": "Your returns are always filed on time.",
+        "tr": "Beyannameleriniz her zaman zamanında teslim edilir."
+      },
+      "icon": "CalendarCheck"
+    },
+    {
+      "title": {
+        "nl": "Minder belasting betalen",
+        "en": "Pay less tax",
+        "tr": "Daha az vergi ödeyin"
+      },
+      "description": {
+        "nl": "Wij signaleren fiscale aftrekposten en optimalisaties.",
+        "en": "We identify deductions and optimization opportunities.",
+        "tr": "Vergi indirimleri ve fırsatları belirleriz."
+      },
+      "icon": "PiggyBank"
+    },
+    {
+      "title": {
+        "nl": "Volledige compliance",
+        "en": "Full compliance",
+        "tr": "Tam mevzuat uyumu"
+      },
+      "description": {
+        "nl": "Altijd volgens de actuele fiscale wetgeving.",
+        "en": "Always compliant with current tax regulations.",
+        "tr": "Her zaman güncel vergi mevzuatına uygun."
+      },
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      },
+      "description": {
+        "nl": "Heldere uitleg en praktische aanbevelingen.",
+        "en": "Clear explanations and practical recommendations.",
+        "tr": "Net açıklamalar ve pratik öneriler."
+      },
+      "icon": "UserCheck"
+    }
+  ],
+
+  "processEyebrow": {
+    "nl": "Werkwijze",
+    "en": "How it works",
+    "tr": "Nasıl çalışır"
+  },
+
+  "processTitle": {
+    "nl": "Zo verzorgen wij uw belastingaangifte.",
+    "en": "How we handle your tax returns.",
+    "tr": "Vergi beyannamelerinizi nasıl hazırlıyoruz."
+  },
+
+  "processSubtitle": {
+    "nl": "Van documentcontrole tot indiening en advies.",
+    "en": "From document review to filing and advice.",
+    "tr": "Belge kontrolünden teslim ve danışmanlığa kadar."
+  },
+
+  "process": [
+    {
+      "title": {
+        "nl": "Aanleveren documenten",
+        "en": "Submit documents",
+        "tr": "Belgelerin teslimi"
+      },
+      "description": {
+        "nl": "U levert de benodigde gegevens digitaal aan.",
+        "en": "You provide the required documents digitally.",
+        "tr": "Gerekli belgeleri dijital olarak gönderirsiniz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Controle & optimalisatie",
+        "en": "Review & optimization",
+        "tr": "Kontrol ve optimizasyon"
+      },
+      "description": {
+        "nl": "Wij controleren de gegevens en signaleren fiscale kansen.",
+        "en": "We review your data and identify tax-saving opportunities.",
+        "tr": "Belgeleri kontrol eder ve vergi fırsatlarını belirleriz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Indiening",
+        "en": "Filing",
+        "tr": "Teslim"
+      },
+      "description": {
+        "nl": "De aangifte wordt correct en tijdig ingediend.",
+        "en": "The tax return is filed accurately and on time.",
+        "tr": "Beyanname doğru ve zamanında teslim edilir."
+      }
+    },
+    {
+      "title": {
+        "nl": "Toelichting",
+        "en": "Explanation",
+        "tr": "Açıklama"
+      },
+      "description": {
+        "nl": "U ontvangt een heldere toelichting op de uitkomst.",
+        "en": "You receive a clear explanation of the outcome.",
+        "tr": "Sonuç hakkında net bir açıklama alırsınız."
+      }
+    }
+  ],
+
+  "faqEyebrow": {
+    "nl": "Veelgestelde vragen",
+    "en": "Frequently asked questions",
+    "tr": "Sıkça sorulan sorular"
+  },
+
+  "faqTitle": {
+    "nl": "Heldere antwoorden",
+    "en": "Clear answers",
+    "tr": "Net yanıtlar"
+  },
+
+  "faqSubtitle": {
+    "nl": "Veelgestelde vragen over belastingaangiftes.",
+    "en": "Common questions about tax returns.",
+    "tr": "Vergi beyannameleri hakkında sık sorulan sorular."
+  },
+
+  "faq": [
+    {
+      "question": {
+        "nl": "Welke belastingaangiftes verzorgen jullie?",
+        "en": "Which tax returns do you handle?",
+        "tr": "Hangi vergi beyannamelerini hazırlıyorsunuz?"
+      },
+      "answer": {
+        "nl": [
+          {
+            "_type": "block",
+            "_key": "faq-nl-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-nl-1a",
+                "text": "Wij verzorgen btw-aangiftes, inkomstenbelasting, vennootschapsbelasting en andere fiscale aangiftes voor ondernemers en particulieren."
+              }
+            ]
+          }
+        ],
+        "en": [
+          {
+            "_type": "block",
+            "_key": "faq-en-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-en-1a",
+                "text": "We handle VAT returns, income tax, corporate tax and other tax filings for businesses and individuals."
+              }
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "_type": "block",
+            "_key": "faq-tr-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-tr-1a",
+                "text": "KDV, gelir vergisi, kurumlar vergisi ve diğer beyannameleri girişimciler ve bireyler için hazırlıyoruz."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "ctaEyebrow": {
+    "nl": "Klaar om uw belastingaangiftes uit te besteden?",
+    "en": "Ready to outsource your tax returns?",
+    "tr": "Vergi beyannamelerinizi profesyonellere bırakmaya hazır mısınız?"
+  },
+
+  "ctaTitle": {
+    "nl": "Correcte aangiftes. Minder belastingstress.",
+    "en": "Accurate tax returns. Less tax stress.",
+    "tr": "Doğru beyannameler. Daha az vergi stresi."
+  },
+
+  "ctaTitleAccent": {
+    "nl": "Plan een gratis kennismaking.",
+    "en": "Schedule a free consultation.",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın."
+  },
+
+  "ctaDescription": {
+    "nl": "Ontdek hoe wij uw belastingaangiftes correct, tijdig en fiscaal optimaal verzorgen.",
+    "en": "Discover how we prepare your tax returns accurately, on time and in the most tax-efficient way.",
+    "tr": "Vergi beyannamelerinizi doğru, zamanında ve vergi açısından en avantajlı şekilde nasıl hazırladığımızı öğrenin."
+  },
+
+  "ctaTrustItems": [
+    {
+      "label": {
+        "nl": "Altijd op tijd",
+        "en": "Always on time",
+        "tr": "Her zaman zamanında"
+      }
+    },
+    {
+      "label": {
+        "nl": "Fiscaal advies",
+        "en": "Tax advice",
+        "tr": "Vergi danışmanlığı"
+      }
+    },
+    {
+      "label": {
+        "nl": "Gratis kennismaking",
+        "en": "Free consultation",
+        "tr": "Ücretsiz tanışma"
+      }
+    }
+  ],
+
+  "ctaPrimaryText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule free consultation",
+    "tr": "Ücretsiz tanışma planlayın"
+  },
+
+  "ctaPrimaryLink": "/contact",
+
+  "ctaSecondaryText": {
+    "nl": "WhatsApp ons",
+    "en": "WhatsApp us",
+    "tr": "WhatsApp'tan yazın"
+  },
+
+  "ctaSecondaryLink": "https://wa.me/31612345678",
+
+  "seoTitle": {
+    "nl": "Belastingaangifte laten verzorgen | Vanaf €95 | Unit AA",
+    "en": "Tax Return Services | From €95 | Unit AA",
+    "tr": "Vergi Beyannameleri | €95'ten başlayan fiyatlarla | Unit AA"
+  },
+
+  "seoDescription": {
+    "nl": "Laat uw belastingaangifte professioneel verzorgen door Unit AA. BTW, inkomstenbelasting en vennootschapsbelasting inclusief fiscaal advies vanaf €95.",
+    "en": "Have your tax returns prepared by Unit AA. VAT, income tax and corporate tax filings including tax advice from €95.",
+    "tr": "Vergi beyannamelerinizi Unit AA'ya hazırlatın. KDV, gelir ve kurumlar vergisi beyannameleri vergi danışmanlığı dahil €95'ten başlayan fiyatlarla."
+  }
+}

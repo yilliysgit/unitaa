@@ -1,0 +1,9 @@
+{
+
+  "Contact": {
+    "phone": "Telefoon",
+    "email": "E-mail",
+    "kvk": "KvK-nummer",
+    "btwNumber": "BTW-nummer"
+  }
+}

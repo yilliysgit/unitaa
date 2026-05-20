@@ -1,0 +1,647 @@
+{
+  "_type": "dienst",
+  "title": {
+    "nl": "Salarisadministratie",
+    "en": "Payroll Administration",
+    "tr": "Bordro Yönetimi"
+  },
+  "shortTitle": {
+    "nl": "Salarisadministratie",
+    "en": "Payroll",
+    "tr": "Bordro"
+  },
+  "slug": {
+    "nl": { "current": "salarisadministratie" },
+    "en": { "current": "payroll-administration" },
+    "tr": { "current": "bordro-yonetimi" }
+  },
+  "icon": "Users",
+  "order": 4,
+  "showOnHome": true,
+
+  "eyebrow": {
+    "nl": "Salarisadministratie uitbesteden",
+    "en": "Outsource your payroll administration",
+    "tr": "Bordro yönetimini dış kaynağa devredin"
+  },
+
+  "subtitle": {
+    "nl": "Correcte loonstroken, aangiftes en werkgeversadvies zonder zorgen.",
+    "en": "Accurate payslips, payroll tax filings and employer support without the hassle.",
+    "tr": "Doğru maaş bordroları, vergi beyannameleri ve işveren danışmanlığı."
+  },
+
+  "description": {
+    "nl": "Wij verzorgen uw volledige salarisadministratie, van loonstroken en loonheffingen tot contracten en werkgeversadvies.",
+    "en": "We handle your complete payroll administration, from payslips and payroll tax returns to contracts and employer advice.",
+    "tr": "Maaş bordroları, vergi beyannameleri, sözleşmeler ve işveren danışmanlığı dahil tüm bordro sürecinizi yönetiyoruz."
+  },
+
+  "badgeTitle": {
+    "nl": "Alles voor uw personeel",
+    "en": "Everything for your employees",
+    "tr": "Personeliniz için her şey"
+  },
+
+  "badgeSubtitle": {
+    "nl": "Van loonstrook tot loonaangifte",
+    "en": "From payslip to payroll tax filing",
+    "tr": "Bordrodan vergi beyannamesine"
+  },
+
+  "microTrust": {
+    "nl": "Altijd correct, op tijd en volgens de laatste wetgeving.",
+    "en": "Always accurate, on time and compliant with current legislation.",
+    "tr": "Her zaman doğru, zamanında ve güncel mevzuata uygun."
+  },
+
+  "location": {
+    "nl": "Voor werkgevers in Amsterdam en heel Nederland.",
+    "en": "For employers throughout the Netherlands.",
+    "tr": "Amsterdam ve tüm Hollanda'daki işverenler için."
+  },
+
+  "primaryCtaText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule a free consultation",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın"
+  },
+
+  "primaryCtaLink": "/contact",
+
+  "secondaryCtaText": {
+    "nl": "Bekijk tarieven",
+    "en": "View pricing",
+    "tr": "Fiyatları görüntüle"
+  },
+
+  "secondaryCtaLink": "/pakketten",
+
+  "trustItems": [
+    {
+      "label": {
+        "nl": "Loonstroken altijd op tijd",
+        "en": "Payslips always on time",
+        "tr": "Bordrolar her zaman zamanında"
+      }
+    },
+    {
+      "label": {
+        "nl": "Volledig compliant",
+        "en": "Fully compliant",
+        "tr": "Tam uyumlu"
+      }
+    },
+    {
+      "label": {
+        "nl": "Persoonlijk werkgeversadvies",
+        "en": "Personal employer advice",
+        "tr": "Kişisel işveren danışmanlığı"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    }
+  ],
+
+  "stats": [
+    {
+      "value": "500+",
+      "label": {
+        "nl": "Ondernemers geholpen",
+        "en": "Entrepreneurs helped",
+        "tr": "Desteklenen girişimciler"
+      },
+      "icon": "Users"
+    },
+    {
+      "value": "24u",
+      "label": {
+        "nl": "Reactietijd",
+        "en": "Response time",
+        "tr": "Yanıt süresi"
+      },
+      "icon": "Clock"
+    },
+    {
+      "value": "Vanaf €25",
+      "label": {
+        "nl": "Per medewerker p/m",
+        "en": "Per employee/month",
+        "tr": "Çalışan başına/ay"
+      },
+      "icon": "Euro"
+    }
+  ],
+
+  "testimonial": {
+    "quote": {
+      "nl": "Sinds Unit AA onze salarisadministratie verzorgt, weten we zeker dat alles altijd correct en op tijd geregeld is.",
+      "en": "Since Unit AA manages our payroll, we know everything is always accurate and on time.",
+      "tr": "Unit AA bordro sürecimizi yönettiğinden beri her şeyin doğru ve zamanında yapıldığından eminiz."
+    },
+    "author": "Ayşe Demir",
+    "company": "Restaurant eigenaar"
+  },
+
+  "shortDesc": {
+    "nl": "Volledige salarisadministratie inclusief loonstroken, aangiftes en werkgeversadvies.",
+    "en": "Complete payroll administration including payslips, filings and employer advice.",
+    "tr": "Bordrolar, beyannameler ve işveren danışmanlığı dahil eksiksiz bordro hizmeti."
+  },
+
+  "longDesc": {
+    "nl": [
+      {
+        "_type": "block",
+        "_key": "longdesc-nl-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-nl-1a",
+            "text": "Salarisadministratie vraagt om precisie en actuele kennis van wet- en regelgeving. Wij verzorgen loonstroken, loonaangiftes en werkgeversdocumenten, zodat u zeker weet dat alles correct en op tijd wordt geregeld."
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "_type": "block",
+        "_key": "longdesc-en-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-en-1a",
+            "text": "Payroll administration requires precision and up-to-date knowledge of legislation. We handle payslips, payroll tax filings and employer documents so everything is accurate and on time."
+          }
+        ]
+      }
+    ],
+    "tr": [
+      {
+        "_type": "block",
+        "_key": "longdesc-tr-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-tr-1a",
+            "text": "Bordro yönetimi hassasiyet ve güncel mevzuat bilgisi gerektirir. Bordrolar, vergi beyannameleri ve işveren belgelerini doğru ve zamanında hazırlıyoruz."
+          }
+        ]
+      }
+    ]
+  },
+
+  "introTrustItems": [
+    {
+      "label": {
+        "nl": "Loonstroken op tijd",
+        "en": "Payslips on time",
+        "tr": "Bordrolar zamanında"
+      }
+    },
+    {
+      "label": {
+        "nl": "Correcte loonaangiftes",
+        "en": "Accurate payroll filings",
+        "tr": "Doğru vergi beyannameleri"
+      }
+    },
+    {
+      "label": {
+        "nl": "Arbeidscontracten & mutaties",
+        "en": "Contracts & changes",
+        "tr": "Sözleşmeler ve değişiklikler"
+      }
+    },
+    {
+      "label": {
+        "nl": "Werkgeversadvies",
+        "en": "Employer advice",
+        "tr": "İşveren danışmanlığı"
+      }
+    }
+  ],
+
+  "pricing": {
+    "startingPrice": "25",
+    "priceSuffix": {
+      "nl": "per medewerker per maand",
+      "en": "per employee per month",
+      "tr": "çalışan başına aylık"
+    },
+    "priceNote": {
+      "nl": "Minimale maandprijs afhankelijk van aantal medewerkers.",
+      "en": "Minimum monthly fee depends on the number of employees.",
+      "tr": "Minimum aylık ücret çalışan sayısına bağlıdır."
+    }
+  },
+
+  "ctaText": {
+    "nl": "Meer informatie",
+    "en": "More information",
+    "tr": "Daha fazla bilgi"
+  },
+
+  "includedEyebrow": {
+    "nl": "Wat is inbegrepen",
+    "en": "What is included",
+    "tr": "Neler dahil"
+  },
+
+  "includedTitle": {
+    "nl": "Alles wat u nodig heeft voor een foutloze salarisadministratie.",
+    "en": "Everything you need for flawless payroll administration.",
+    "tr": "Hatasız bordro yönetimi için ihtiyacınız olan her şey."
+  },
+
+  "includedSubtitle": {
+    "nl": "Van loonstroken tot loonaangiftes en werkgeversadvies.",
+    "en": "From payslips to payroll filings and employer advice.",
+    "tr": "Bordrolardan vergi beyannamelerine ve işveren danışmanlığına kadar."
+  },
+
+  "includedItems": [
+    {
+      "title": {
+        "nl": "Loonstroken",
+        "en": "Payslips",
+        "tr": "Maaş bordroları"
+      },
+      "description": {
+        "nl": "Correcte loonstroken voor al uw medewerkers.",
+        "en": "Accurate payslips for all employees.",
+        "tr": "Tüm çalışanlar için doğru maaş bordroları."
+      },
+      "icon": "FileText"
+    },
+    {
+      "title": {
+        "nl": "Loonaangiftes",
+        "en": "Payroll tax filings",
+        "tr": "Muhtasar beyannameler"
+      },
+      "description": {
+        "nl": "Tijdige aangifte loonheffingen bij de Belastingdienst.",
+        "en": "Timely payroll tax returns.",
+        "tr": "Vergi beyannamelerinin zamanında verilmesi."
+      },
+      "icon": "Send"
+    },
+    {
+      "title": {
+        "nl": "Arbeidscontracten",
+        "en": "Employment contracts",
+        "tr": "İş sözleşmeleri"
+      },
+      "description": {
+        "nl": "Ondersteuning bij contracten en wijzigingen.",
+        "en": "Support with contracts and amendments.",
+        "tr": "Sözleşmeler ve değişiklikler için destek."
+      },
+      "icon": "FileSignature"
+    },
+    {
+      "title": {
+        "nl": "Pensioen & vakantiegeld",
+        "en": "Pension & holiday pay",
+        "tr": "Emeklilik ve izin ödemeleri"
+      },
+      "description": {
+        "nl": "Correcte verwerking van reserveringen en afdrachten.",
+        "en": "Proper processing of accruals and contributions.",
+        "tr": "Karşılıklar ve ödemelerin doğru işlenmesi."
+      },
+      "icon": "Wallet"
+    },
+    {
+      "title": {
+        "nl": "In- en uitdiensttreding",
+        "en": "New hires & terminations",
+        "tr": "İşe giriş ve çıkış"
+      },
+      "description": {
+        "nl": "Volledige administratieve afhandeling.",
+        "en": "Complete administrative handling.",
+        "tr": "Tüm idari süreçlerin yönetimi."
+      },
+      "icon": "UserPlus"
+    },
+    {
+      "title": {
+        "nl": "Werkgeversadvies",
+        "en": "Employer advice",
+        "tr": "İşveren danışmanlığı"
+      },
+      "description": {
+        "nl": "Advies over loon, contracten en regelgeving.",
+        "en": "Advice on salaries, contracts and regulations.",
+        "tr": "Ücret, sözleşme ve mevzuat danışmanlığı."
+      },
+      "icon": "Briefcase"
+    }
+  ],
+
+  "includedFootnote": {
+    "nl": "Inclusief loonstroken, aangiftes en persoonlijk werkgeversadvies.",
+    "en": "Including payslips, filings and personal employer advice.",
+    "tr": "Bordrolar, beyannameler ve kişisel danışmanlık dahildir."
+  },
+
+  "benefitsEyebrow": {
+    "nl": "Waarom uitbesteden?",
+    "en": "Why outsource payroll?",
+    "tr": "Neden dış kaynak kullanmalısınız?"
+  },
+
+  "benefitsTitle": {
+    "nl": "Minder risico, meer zekerheid.",
+    "en": "Less risk, more certainty.",
+    "tr": "Daha az risk, daha fazla güven."
+  },
+
+  "benefitsSubtitle": {
+    "nl": "Wij zorgen dat uw salarisadministratie altijd klopt.",
+    "en": "We ensure your payroll is always accurate.",
+    "tr": "Bordro sürecinizin her zaman doğru olmasını sağlıyoruz."
+  },
+
+  "benefits": [
+    {
+      "title": {
+        "nl": "Voorkom fouten",
+        "en": "Avoid mistakes",
+        "tr": "Hataları önleyin"
+      },
+      "description": {
+        "nl": "Correcte verwerking volgens actuele wetgeving.",
+        "en": "Processed according to current legislation.",
+        "tr": "Güncel mevzuata uygun işlem."
+      },
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": {
+        "nl": "Bespaar tijd",
+        "en": "Save time",
+        "tr": "Zaman kazanın"
+      },
+      "description": {
+        "nl": "Geen zorgen over loonstroken en deadlines.",
+        "en": "No worries about payslips and deadlines.",
+        "tr": "Bordrolar ve son tarihlerle uğraşmayın."
+      },
+      "icon": "Clock3"
+    },
+    {
+      "title": {
+        "nl": "Werkgeversadvies",
+        "en": "Employer support",
+        "tr": "İşveren desteği"
+      },
+      "description": {
+        "nl": "Praktisch advies bij personeelsvraagstukken.",
+        "en": "Practical support with HR-related questions.",
+        "tr": "Personel konularında pratik danışmanlık."
+      },
+      "icon": "Users"
+    },
+    {
+      "title": {
+        "nl": "Volledige compliance",
+        "en": "Full compliance",
+        "tr": "Tam mevzuat uyumu"
+      },
+      "description": {
+        "nl": "Altijd volgens de laatste regels.",
+        "en": "Always compliant with the latest rules.",
+        "tr": "Her zaman güncel kurallara uygun."
+      },
+      "icon": "CheckCircle"
+    }
+  ],
+
+  "processEyebrow": {
+    "nl": "Werkwijze",
+    "en": "How it works",
+    "tr": "Nasıl çalışır"
+  },
+
+  "processTitle": {
+    "nl": "Zo regelen wij uw salarisadministratie.",
+    "en": "How we manage your payroll.",
+    "tr": "Bordro sürecinizi nasıl yönetiyoruz."
+  },
+
+  "processSubtitle": {
+    "nl": "Een helder proces zonder verrassingen.",
+    "en": "A clear and straightforward process.",
+    "tr": "Sürprizsiz ve net bir süreç."
+  },
+
+  "process": [
+    {
+      "title": {
+        "nl": "Kennismaking",
+        "en": "Introduction",
+        "tr": "Tanışma"
+      },
+      "description": {
+        "nl": "We bespreken uw personeelssituatie.",
+        "en": "We discuss your payroll needs.",
+        "tr": "Personel durumunuzu değerlendiririz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Aanleveren gegevens",
+        "en": "Submit payroll data",
+        "tr": "Bilgi teslimi"
+      },
+      "description": {
+        "nl": "U levert mutaties en uren aan.",
+        "en": "You provide hours and payroll changes.",
+        "tr": "Saatler ve değişiklikler tarafınızdan iletilir."
+      }
+    },
+    {
+      "title": {
+        "nl": "Verwerking",
+        "en": "Processing",
+        "tr": "İşleme"
+      },
+      "description": {
+        "nl": "Wij verwerken loonstroken en aangiftes.",
+        "en": "We process payslips and tax filings.",
+        "tr": "Bordrolar ve beyannameler hazırlanır."
+      }
+    },
+    {
+      "title": {
+        "nl": "Oplevering",
+        "en": "Delivery",
+        "tr": "Teslim"
+      },
+      "description": {
+        "nl": "U ontvangt alle documenten en advies.",
+        "en": "You receive all documents and advice.",
+        "tr": "Tüm belgeler ve danışmanlık size sunulur."
+      }
+    }
+  ],
+
+  "faqEyebrow": {
+    "nl": "Veelgestelde vragen",
+    "en": "Frequently asked questions",
+    "tr": "Sıkça sorulan sorular"
+  },
+
+  "faqTitle": {
+    "nl": "Heldere antwoorden",
+    "en": "Clear answers",
+    "tr": "Net yanıtlar"
+  },
+
+  "faqSubtitle": {
+    "nl": "Veelgestelde vragen over salarisadministratie.",
+    "en": "Common questions about payroll administration.",
+    "tr": "Bordro yönetimi hakkında sık sorulan sorular."
+  },
+
+  "faq": [
+    {
+      "question": {
+        "nl": "Wanneer ontvang ik de loonstroken?",
+        "en": "When will I receive the payslips?",
+        "tr": "Bordroları ne zaman alırım?"
+      },
+      "answer": {
+        "nl": [
+          {
+            "_type": "block",
+            "_key": "faq-nl-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-nl-1a",
+                "text": "Zodra u de mutaties aanlevert, verwerken wij de loonstroken en ontvangt u deze ruim op tijd voor uitbetaling."
+              }
+            ]
+          }
+        ],
+        "en": [
+          {
+            "_type": "block",
+            "_key": "faq-en-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-en-1a",
+                "text": "Once you submit payroll changes, we process and deliver the payslips well before the payment date."
+              }
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "_type": "block",
+            "_key": "faq-tr-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-tr-1a",
+                "text": "Değişiklikleri ilettikten sonra bordrolarınızı ödeme tarihinden önce zamanında hazırlarız."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "ctaEyebrow": {
+    "nl": "Klaar om uw salarisadministratie uit te besteden?",
+    "en": "Ready to outsource your payroll?",
+    "tr": "Bordro sürecinizi devretmeye hazır mısınız?"
+  },
+
+  "ctaTitle": {
+    "nl": "Zekerheid voor u en uw medewerkers.",
+    "en": "Certainty for you and your employees.",
+    "tr": "Sizin ve çalışanlarınız için güven."
+  },
+
+  "ctaTitleAccent": {
+    "nl": "Plan een gratis kennismaking.",
+    "en": "Schedule a free consultation.",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın."
+  },
+
+  "ctaDescription": {
+    "nl": "Ontdek hoe wij uw salarisadministratie foutloos en efficiënt verzorgen.",
+    "en": "Discover how we manage your payroll accurately and efficiently.",
+    "tr": "Bordro sürecinizi nasıl doğru ve verimli yönettiğimizi öğrenin."
+  },
+
+  "ctaTrustItems": [
+    {
+      "label": {
+        "nl": "Loonstroken op tijd",
+        "en": "Payslips on time",
+        "tr": "Bordrolar zamanında"
+      }
+    },
+    {
+      "label": {
+        "nl": "Werkgeversadvies",
+        "en": "Employer advice",
+        "tr": "İşveren danışmanlığı"
+      }
+    },
+    {
+      "label": {
+        "nl": "Gratis kennismaking",
+        "en": "Free consultation",
+        "tr": "Ücretsiz tanışma"
+      }
+    }
+  ],
+
+  "ctaPrimaryText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule free consultation",
+    "tr": "Ücretsiz tanışma planlayın"
+  },
+
+  "ctaPrimaryLink": "/contact",
+
+  "ctaSecondaryText": {
+    "nl": "WhatsApp ons",
+    "en": "WhatsApp us",
+    "tr": "WhatsApp'tan yazın"
+  },
+
+  "ctaSecondaryLink": "https://wa.me/31612345678",
+
+  "seoTitle": {
+    "nl": "Salarisadministratie uitbesteden | Vanaf €25 per medewerker | Unit AA",
+    "en": "Payroll Administration | From €25 per employee | Unit AA",
+    "tr": "Bordro Yönetimi | Çalışan başına €25'ten başlayan fiyatlarla | Unit AA"
+  },
+
+  "seoDescription": {
+    "nl": "Besteed uw salarisadministratie uit aan Unit AA. Loonstroken, loonaangiftes en werkgeversadvies vanaf €25 per medewerker per maand.",
+    "en": "Outsource your payroll administration to Unit AA. Payslips, payroll tax filings and employer advice from €25 per employee per month.",
+    "tr": "Bordro yönetiminizi Unit AA'ya devredin. Maaş bordroları, vergi beyannameleri ve işveren danışmanlığı çalışan başına aylık €25'ten başlayan fiyatlarla."
+  }
+}

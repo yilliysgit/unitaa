@@ -1,0 +1,647 @@
+{
+  "_type": "dienst",
+  "title": {
+    "nl": "Vastgoed & Hypotheekadvies",
+    "en": "Real Estate & Mortgage Advice",
+    "tr": "Gayrimenkul ve Mortgage Danışmanlığı"
+  },
+  "shortTitle": {
+    "nl": "Vastgoedadvies",
+    "en": "Real Estate Advice",
+    "tr": "Gayrimenkul Danışmanlığı"
+  },
+  "slug": {
+    "nl": { "current": "vastgoed-hypotheekadvies" },
+    "en": { "current": "real-estate-mortgage-advice" },
+    "tr": { "current": "gayrimenkul-ve-mortgage-danismanligi" }
+  },
+  "icon": "Home",
+  "order": 2,
+  "showOnHome": true,
+
+  "eyebrow": {
+    "nl": "Vastgoed- en hypotheekadvies in Nederland",
+    "en": "Real estate and mortgage advice in the Netherlands",
+    "tr": "Hollanda'da gayrimenkul ve mortgage danışmanlığı"
+  },
+
+  "subtitle": {
+    "nl": "Deskundig advies bij het kopen van een woning, financiering en fiscale optimalisatie.",
+    "en": "Expert advice for buying property, arranging financing and optimizing tax matters.",
+    "tr": "Konut satın alma, finansman ve vergi optimizasyonu için uzman danışmanlık."
+  },
+
+  "description": {
+    "nl": "Wij begeleiden u bij het kopen van vastgoed, het aanvragen van een hypotheek en het optimaliseren van uw fiscale positie.",
+    "en": "We guide you in purchasing property, arranging a mortgage and optimizing your tax position.",
+    "tr": "Gayrimenkul satın alma, mortgage başvurusu ve vergi pozisyonunuzun optimize edilmesi süreçlerinde size rehberlik ediyoruz."
+  },
+
+  "badgeTitle": {
+    "nl": "Van aankoop tot financiering",
+    "en": "From purchase to financing",
+    "tr": "Satın almadan finansmana"
+  },
+
+  "badgeSubtitle": {
+    "nl": "Persoonlijk en onafhankelijk advies",
+    "en": "Personal and independent advice",
+    "tr": "Kişisel ve bağımsız danışmanlık"
+  },
+
+  "microTrust": {
+    "nl": "Heldere begeleiding zonder verrassingen.",
+    "en": "Clear guidance with no surprises.",
+    "tr": "Sürprizsiz, net rehberlik."
+  },
+
+  "location": {
+    "nl": "Voor kopers en investeerders in Amsterdam en heel Nederland.",
+    "en": "For home buyers and investors throughout the Netherlands.",
+    "tr": "Amsterdam ve tüm Hollanda'daki alıcılar ve yatırımcılar için."
+  },
+
+  "primaryCtaText": {
+    "nl": "Plan gratis adviesgesprek",
+    "en": "Schedule a free consultation",
+    "tr": "Ücretsiz danışmanlık görüşmesi planlayın"
+  },
+
+  "primaryCtaLink": "/contact",
+
+  "secondaryCtaText": {
+    "nl": "Bekijk tarieven",
+    "en": "View pricing",
+    "tr": "Fiyatları görüntüle"
+  },
+
+  "secondaryCtaLink": "/pakketten",
+
+  "trustItems": [
+    {
+      "label": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Onafhankelijke begeleiding",
+        "en": "Independent guidance",
+        "tr": "Bağımsız rehberlik"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    },
+    {
+      "label": {
+        "nl": "Inzicht in fiscale voordelen",
+        "en": "Insight into tax benefits",
+        "tr": "Vergi avantajları hakkında bilgi"
+      }
+    }
+  ],
+
+  "stats": [
+    {
+      "value": "500+",
+      "label": {
+        "nl": "Geadviseerde klanten",
+        "en": "Clients advised",
+        "tr": "Danışmanlık verilen müşteriler"
+      },
+      "icon": "Users"
+    },
+    {
+      "value": "24u",
+      "label": {
+        "nl": "Reactietijd",
+        "en": "Response time",
+        "tr": "Yanıt süresi"
+      },
+      "icon": "Clock"
+    },
+    {
+      "value": "Vanaf €950",
+      "label": {
+        "nl": "Per adviestraject",
+        "en": "Per advisory project",
+        "tr": "Danışmanlık paketi"
+      },
+      "icon": "Home"
+    }
+  ],
+
+  "testimonial": {
+    "quote": {
+      "nl": "Dankzij Unit AA kochten wij met vertrouwen onze eerste woning en kregen we duidelijk inzicht in alle fiscale gevolgen.",
+      "en": "Thanks to Unit AA, we purchased our first home with confidence and had a clear understanding of the tax implications.",
+      "tr": "Unit AA sayesinde ilk evimizi güvenle satın aldık ve tüm vergi sonuçlarını net bir şekilde anladık."
+    },
+    "author": "Fatih Yılmaz",
+    "company": "Starter op de woningmarkt"
+  },
+
+  "shortDesc": {
+    "nl": "Advies bij aankoop, financiering en fiscale optimalisatie van vastgoed.",
+    "en": "Advice on purchasing, financing and tax optimization of real estate.",
+    "tr": "Gayrimenkul satın alma, finansman ve vergi optimizasyonu danışmanlığı."
+  },
+
+  "longDesc": {
+    "nl": [
+      {
+        "_type": "block",
+        "_key": "longdesc-nl-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-nl-1a",
+            "text": "Wilt u een woning kopen of investeren in vastgoed? Unit AA begeleidt u bij het volledige traject: van aankoopadvies en hypotheekbegeleiding tot fiscale optimalisatie en rendementanalyse."
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "_type": "block",
+        "_key": "longdesc-en-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-en-1a",
+            "text": "Planning to buy a home or invest in real estate? Unit AA supports you throughout the process, from acquisition and mortgage advice to tax optimization and return analysis."
+          }
+        ]
+      }
+    ],
+    "tr": [
+      {
+        "_type": "block",
+        "_key": "longdesc-tr-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-tr-1a",
+            "text": "Ev satın almak veya gayrimenkule yatırım yapmak mı istiyorsunuz? Unit AA, satın alma danışmanlığından mortgage desteğine, vergi optimizasyonundan getiri analizine kadar tüm süreçte yanınızdadır."
+          }
+        ]
+      }
+    ]
+  },
+
+  "introTrustItems": [
+    {
+      "label": {
+        "nl": "Persoonlijk en onafhankelijk advies",
+        "en": "Personal and independent advice",
+        "tr": "Kişisel ve bağımsız danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Inzicht in maximale financiering",
+        "en": "Insight into maximum financing",
+        "tr": "Maksimum finansman analizi"
+      }
+    },
+    {
+      "label": {
+        "nl": "Fiscaal geoptimaliseerd",
+        "en": "Tax optimized",
+        "tr": "Vergi açısından optimize edilmiş"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    }
+  ],
+
+  "pricing": {
+    "startingPrice": "950",
+    "priceSuffix": {
+      "nl": "eenmalig",
+      "en": "one-time",
+      "tr": "tek seferlik"
+    },
+    "priceNote": {
+      "nl": "Afhankelijk van de complexiteit van het traject.",
+      "en": "Depending on the complexity of the project.",
+      "tr": "Sürecin karmaşıklığına bağlıdır."
+    }
+  },
+
+  "ctaText": {
+    "nl": "Meer informatie",
+    "en": "More information",
+    "tr": "Daha fazla bilgi"
+  },
+
+  "includedEyebrow": {
+    "nl": "Wat is inbegrepen",
+    "en": "What is included",
+    "tr": "Neler dahil"
+  },
+
+  "includedTitle": {
+    "nl": "Alles wat u nodig heeft voor een slimme vastgoedbeslissing.",
+    "en": "Everything you need to make a smart real estate decision.",
+    "tr": "Doğru gayrimenkul kararı için ihtiyacınız olan her şey."
+  },
+
+  "includedSubtitle": {
+    "nl": "Volledige begeleiding van aankoop tot financiering.",
+    "en": "Complete support from purchase to financing.",
+    "tr": "Satın almadan finansmana kadar eksiksiz destek."
+  },
+
+  "includedItems": [
+    {
+      "title": {
+        "nl": "Aankoopanalyse",
+        "en": "Purchase analysis",
+        "tr": "Satın alma analizi"
+      },
+      "description": {
+        "nl": "Beoordeling van prijs, rendement en risico.",
+        "en": "Assessment of price, return and risk.",
+        "tr": "Fiyat, getiri ve risk değerlendirmesi."
+      },
+      "icon": "Search"
+    },
+    {
+      "title": {
+        "nl": "Hypotheekadvies",
+        "en": "Mortgage advice",
+        "tr": "Mortgage danışmanlığı"
+      },
+      "description": {
+        "nl": "Inzicht in financieringsmogelijkheden en maandlasten.",
+        "en": "Insight into financing options and monthly payments.",
+        "tr": "Finansman seçenekleri ve aylık ödemeler hakkında bilgi."
+      },
+      "icon": "Home"
+    },
+    {
+      "title": {
+        "nl": "Fiscale optimalisatie",
+        "en": "Tax optimization",
+        "tr": "Vergi optimizasyonu"
+      },
+      "description": {
+        "nl": "Advies over box 1, box 3 en BV-structuren.",
+        "en": "Advice on Box 1, Box 3 and corporate structures.",
+        "tr": "Box 1, Box 3 ve BV yapıları hakkında danışmanlık."
+      },
+      "icon": "Shield"
+    },
+    {
+      "title": {
+        "nl": "Rendementsberekening",
+        "en": "Return calculation",
+        "tr": "Getiri hesaplaması"
+      },
+      "description": {
+        "nl": "Inzicht in netto rendement en cashflow.",
+        "en": "Insight into net return and cash flow.",
+        "tr": "Net getiri ve nakit akışı analizi."
+      },
+      "icon": "Calculator"
+    },
+    {
+      "title": {
+        "nl": "Structuuradvies",
+        "en": "Structure advice",
+        "tr": "Yapı danışmanlığı"
+      },
+      "description": {
+        "nl": "Koop privé of via BV? Wij adviseren de beste structuur.",
+        "en": "Buy privately or through a company? We advise the best structure.",
+        "tr": "Bireysel mi yoksa şirket üzerinden mi alınmalı? En uygun yapıyı belirleriz."
+      },
+      "icon": "Building"
+    },
+    {
+      "title": {
+        "nl": "Persoonlijke begeleiding",
+        "en": "Personal guidance",
+        "tr": "Kişisel rehberlik"
+      },
+      "description": {
+        "nl": "Direct contact met een ervaren adviseur.",
+        "en": "Direct contact with an experienced advisor.",
+        "tr": "Deneyimli bir danışmanla doğrudan iletişim."
+      },
+      "icon": "UserCheck"
+    }
+  ],
+
+  "includedFootnote": {
+    "nl": "Inclusief persoonlijke begeleiding en fiscaal advies op maat.",
+    "en": "Including personal guidance and tailored tax advice.",
+    "tr": "Kişisel rehberlik ve size özel vergi danışmanlığı dahildir."
+  },
+
+  "benefitsEyebrow": {
+    "nl": "Waarom Unit AA?",
+    "en": "Why Unit AA?",
+    "tr": "Neden Unit AA?"
+  },
+
+  "benefitsTitle": {
+    "nl": "Zekerheid bij een van de grootste financiële beslissingen.",
+    "en": "Confidence in one of your biggest financial decisions.",
+    "tr": "Hayatınızdaki en önemli finansal kararlardan birinde güven."
+  },
+
+  "benefitsSubtitle": {
+    "nl": "Wij combineren financiële expertise, fiscale kennis en persoonlijke begeleiding.",
+    "en": "We combine financial expertise, tax knowledge and personal guidance.",
+    "tr": "Finansal uzmanlığı, vergi bilgisini ve kişisel rehberliği bir araya getiriyoruz."
+  },
+
+  "benefits": [
+    {
+      "title": {
+        "nl": "Voorkom dure fouten",
+        "en": "Avoid costly mistakes",
+        "tr": "Pahalı hatalardan kaçının"
+      },
+      "description": {
+        "nl": "Wij analyseren risico's en fiscale gevolgen vooraf.",
+        "en": "We analyze risks and tax consequences in advance.",
+        "tr": "Riskleri ve vergi sonuçlarını önceden analiz ederiz."
+      },
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": {
+        "nl": "Maximaal rendement",
+        "en": "Maximum return",
+        "tr": "Maksimum getiri"
+      },
+      "description": {
+        "nl": "Inzicht in cashflow, rendement en fiscale voordelen.",
+        "en": "Insight into cash flow, returns and tax benefits.",
+        "tr": "Nakit akışı, getiri ve vergi avantajları hakkında bilgi."
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "title": {
+        "nl": "Slimme structuur",
+        "en": "Smart structure",
+        "tr": "Akıllı yapı"
+      },
+      "description": {
+        "nl": "Advies over privé aankoop of aankoop via BV.",
+        "en": "Advice on private purchase or purchase through a company.",
+        "tr": "Bireysel veya şirket üzerinden satın alma danışmanlığı."
+      },
+      "icon": "Building2"
+    },
+    {
+      "title": {
+        "nl": "Persoonlijke begeleiding",
+        "en": "Personal support",
+        "tr": "Kişisel destek"
+      },
+      "description": {
+        "nl": "Direct contact met een specialist.",
+        "en": "Direct contact with a specialist.",
+        "tr": "Bir uzmanla doğrudan iletişim."
+      },
+      "icon": "UserCheck"
+    }
+  ],
+
+  "processEyebrow": {
+    "nl": "Werkwijze",
+    "en": "How it works",
+    "tr": "Nasıl çalışır"
+  },
+
+  "processTitle": {
+    "nl": "Zo begeleiden wij uw vastgoedtraject.",
+    "en": "How we guide your real estate journey.",
+    "tr": "Gayrimenkul sürecinizi nasıl yönetiyoruz."
+  },
+
+  "processSubtitle": {
+    "nl": "Van eerste analyse tot definitieve aankoop.",
+    "en": "From initial analysis to final purchase.",
+    "tr": "İlk analizden satın almaya kadar."
+  },
+
+  "process": [
+    {
+      "title": {
+        "nl": "Kennismaking",
+        "en": "Introduction",
+        "tr": "Tanışma"
+      },
+      "description": {
+        "nl": "We bespreken uw plannen, budget en doelen.",
+        "en": "We discuss your plans, budget and goals.",
+        "tr": "Planlarınızı, bütçenizi ve hedeflerinizi konuşuruz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Analyse",
+        "en": "Analysis",
+        "tr": "Analiz"
+      },
+      "description": {
+        "nl": "Wij beoordelen financiering, fiscale aspecten en rendement.",
+        "en": "We analyze financing, tax aspects and returns.",
+        "tr": "Finansman, vergi ve getiri analizini yaparız."
+      }
+    },
+    {
+      "title": {
+        "nl": "Advies",
+        "en": "Advice",
+        "tr": "Danışmanlık"
+      },
+      "description": {
+        "nl": "U ontvangt een helder en onderbouwd advies.",
+        "en": "You receive a clear and well-founded recommendation.",
+        "tr": "Size net ve gerekçeli bir öneri sunarız."
+      }
+    },
+    {
+      "title": {
+        "nl": "Begeleiding",
+        "en": "Guidance",
+        "tr": "Rehberlik"
+      },
+      "description": {
+        "nl": "Wij begeleiden u tot en met de aankoop en financiering.",
+        "en": "We support you through purchase and financing.",
+        "tr": "Satın alma ve finansman süreci boyunca yanınızdayız."
+      }
+    }
+  ],
+
+  "faqEyebrow": {
+    "nl": "Veelgestelde vragen",
+    "en": "Frequently asked questions",
+    "tr": "Sıkça sorulan sorular"
+  },
+
+  "faqTitle": {
+    "nl": "Heldere antwoorden",
+    "en": "Clear answers",
+    "tr": "Net yanıtlar"
+  },
+
+  "faqSubtitle": {
+    "nl": "Antwoorden op de meest gestelde vragen over vastgoed en hypotheekadvies.",
+    "en": "Answers to common questions about real estate and mortgage advice.",
+    "tr": "Gayrimenkul ve mortgage danışmanlığı hakkında sık sorulan sorular."
+  },
+
+  "faq": [
+    {
+      "question": {
+        "nl": "Kan ik beter privé of via een BV kopen?",
+        "en": "Should I buy privately or through a company?",
+        "tr": "Gayrimenkulü bireysel mi yoksa şirket üzerinden mi almalıyım?"
+      },
+      "answer": {
+        "nl": [
+          {
+            "_type": "block",
+            "_key": "faq-nl-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-nl-1a",
+                "text": "Dat hangt af van uw situatie, rendement en fiscale doelstellingen. Wij analyseren beide opties en adviseren de meest voordelige structuur."
+              }
+            ]
+          }
+        ],
+        "en": [
+          {
+            "_type": "block",
+            "_key": "faq-en-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-en-1a",
+                "text": "This depends on your situation, expected returns and tax objectives. We compare both options and advise the most beneficial structure."
+              }
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "_type": "block",
+            "_key": "faq-tr-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-tr-1a",
+                "text": "Bu, durumunuza, getiri beklentinize ve vergi hedeflerinize bağlıdır. Her iki seçeneği analiz ederek en avantajlı yapıyı öneririz."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "ctaEyebrow": {
+    "nl": "Klaar om slim te investeren?",
+    "en": "Ready to invest wisely?",
+    "tr": "Akıllı yatırım yapmaya hazır mısınız?"
+  },
+
+  "ctaTitle": {
+    "nl": "Maak vastgoedbeslissingen met vertrouwen.",
+    "en": "Make real estate decisions with confidence.",
+    "tr": "Gayrimenkul kararlarınızı güvenle alın."
+  },
+
+  "ctaTitleAccent": {
+    "nl": "Plan een gratis adviesgesprek.",
+    "en": "Schedule a free consultation.",
+    "tr": "Ücretsiz danışmanlık görüşmesi planlayın."
+  },
+
+  "ctaDescription": {
+    "nl": "Ontdek wat fiscaal en financieel de slimste keuze is voor uw vastgoedplannen.",
+    "en": "Discover the smartest financial and tax strategy for your real estate plans.",
+    "tr": "Gayrimenkul planlarınız için en avantajlı finansal ve vergi stratejisini öğrenin."
+  },
+
+  "ctaTrustItems": [
+    {
+      "label": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Gratis kennismaking",
+        "en": "Free consultation",
+        "tr": "Ücretsiz tanışma"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    }
+  ],
+
+  "ctaPrimaryText": {
+    "nl": "Plan gratis adviesgesprek",
+    "en": "Schedule free consultation",
+    "tr": "Ücretsiz danışmanlık planlayın"
+  },
+
+  "ctaPrimaryLink": "/contact",
+
+  "ctaSecondaryText": {
+    "nl": "WhatsApp ons",
+    "en": "WhatsApp us",
+    "tr": "WhatsApp'tan yazın"
+  },
+
+  "ctaSecondaryLink": "https://wa.me/31612345678",
+
+  "seoTitle": {
+    "nl": "Vastgoed & Hypotheekadvies | Unit AA",
+    "en": "Real Estate & Mortgage Advice | Unit AA",
+    "tr": "Gayrimenkul ve Mortgage Danışmanlığı | Unit AA"
+  },
+
+  "seoDescription": {
+    "nl": "Deskundig vastgoed- en hypotheekadvies voor kopers en investeerders. Inclusief fiscale optimalisatie, rendementsanalyse en persoonlijke begeleiding.",
+    "en": "Expert real estate and mortgage advice for buyers and investors, including tax optimization, return analysis and personal guidance.",
+    "tr": "Alıcılar ve yatırımcılar için uzman gayrimenkul ve mortgage danışmanlığı. Vergi optimizasyonu, getiri analizi ve kişisel rehberlik dahildir."
+  }
+}

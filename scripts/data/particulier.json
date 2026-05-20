@@ -1,0 +1,651 @@
+{
+  "_type": "dienst",
+  "title": {
+    "nl": "Particuliere Aangifte",
+    "en": "Personal Income Tax Return",
+    "tr": "Bireysel Vergi Beyannamesi"
+  },
+  "shortTitle": {
+    "nl": "Particuliere Aangifte",
+    "en": "Personal Tax Return",
+    "tr": "Bireysel Vergi Beyannamesi"
+  },
+  "slug": {
+    "nl": { "current": "particuliere-aangifte" },
+    "en": { "current": "personal-income-tax-return" },
+    "tr": { "current": "bireysel-vergi-beyannamesi" }
+  },
+  "icon": "FileUser",
+  "order": 8,
+  "showOnHome": true,
+
+  "eyebrow": {
+    "nl": "Uw particuliere aangifte professioneel geregeld",
+    "en": "Your personal tax return handled professionally",
+    "tr": "Bireysel vergi beyannameniz profesyonelce hazırlanır"
+  },
+
+  "subtitle": {
+    "nl": "Inkomstenbelasting correct, tijdig en fiscaal optimaal ingediend.",
+    "en": "Income tax returns filed accurately, on time and tax-efficiently.",
+    "tr": "Gelir vergisi beyannameniz doğru, zamanında ve vergi açısından avantajlı hazırlanır."
+  },
+
+  "description": {
+    "nl": "Wij verzorgen uw particuliere aangifte inkomstenbelasting en zorgen dat alle aftrekposten en fiscale voordelen optimaal worden benut.",
+    "en": "We prepare your personal income tax return and ensure all deductions and tax benefits are fully utilized.",
+    "tr": "Bireysel gelir vergisi beyannamenizi hazırlıyor ve tüm vergi avantajlarından en iyi şekilde yararlanmanızı sağlıyoruz."
+  },
+
+  "badgeTitle": {
+    "nl": "Maximaal voordeel",
+    "en": "Maximum tax benefit",
+    "tr": "Maksimum vergi avantajı"
+  },
+
+  "badgeSubtitle": {
+    "nl": "Zonder zorgen of fouten",
+    "en": "Without stress or mistakes",
+    "tr": "Hatasız ve stressiz"
+  },
+
+  "microTrust": {
+    "nl": "Geen fiscale verrassingen, wel maximale zekerheid.",
+    "en": "No tax surprises, just peace of mind.",
+    "tr": "Vergi sürprizleri yok, tam güven var."
+  },
+
+  "location": {
+    "nl": "Voor particulieren in Amsterdam en heel Nederland.",
+    "en": "For individuals throughout the Netherlands.",
+    "tr": "Amsterdam ve tüm Hollanda'daki bireyler için."
+  },
+
+  "primaryCtaText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule a free consultation",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın"
+  },
+
+  "primaryCtaLink": "/contact",
+
+  "secondaryCtaText": {
+    "nl": "Bekijk tarieven",
+    "en": "View pricing",
+    "tr": "Fiyatları görüntüle"
+  },
+
+  "secondaryCtaLink": "/pakketten",
+
+  "trustItems": [
+    {
+      "label": {
+        "nl": "Maximale aftrekposten",
+        "en": "Maximum deductions",
+        "tr": "Maksimum vergi indirimleri"
+      }
+    },
+    {
+      "label": {
+        "nl": "Correct en op tijd",
+        "en": "Accurate and on time",
+        "tr": "Doğru ve zamanında"
+      }
+    },
+    {
+      "label": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    }
+  ],
+
+  "stats": [
+    {
+      "value": "1.000+",
+      "label": {
+        "nl": "Particuliere aangiftes verzorgd",
+        "en": "Personal tax returns completed",
+        "tr": "Hazırlanan bireysel beyannameler"
+      },
+      "icon": "FileCheck"
+    },
+    {
+      "value": "24u",
+      "label": {
+        "nl": "Reactietijd",
+        "en": "Response time",
+        "tr": "Yanıt süresi"
+      },
+      "icon": "Clock"
+    },
+    {
+      "value": "Vanaf €95",
+      "label": {
+        "nl": "Per aangifte",
+        "en": "Per tax return",
+        "tr": "Beyanname başına"
+      },
+      "icon": "Euro"
+    }
+  ],
+
+  "testimonial": {
+    "quote": {
+      "nl": "Dankzij Unit AA kregen wij meer terug dan verwacht. Alles werd duidelijk uitgelegd en snel geregeld.",
+      "en": "Thanks to Unit AA, we received a larger refund than expected. Everything was explained clearly and handled quickly.",
+      "tr": "Unit AA sayesinde beklediğimizden daha fazla vergi iadesi aldık. Her şey hızlı ve net bir şekilde açıklandı."
+    },
+    "author": "Mehmet & Elif Kaya",
+    "company": "Particulier"
+  },
+
+  "shortDesc": {
+    "nl": "Professionele aangifte inkomstenbelasting voor particulieren.",
+    "en": "Professional personal income tax return services.",
+    "tr": "Bireyler için profesyonel gelir vergisi beyannamesi hizmeti."
+  },
+
+  "longDesc": {
+    "nl": [
+      {
+        "_type": "block",
+        "_key": "longdesc-nl-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-nl-1a",
+            "text": "Uw particuliere aangifte inkomstenbelasting verdient een zorgvuldige aanpak. Wij controleren alle relevante posten, zoals hypotheekrente, zorgkosten, giften en box 3-vermogen, zodat u niet meer belasting betaalt dan nodig."
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "_type": "block",
+        "_key": "longdesc-en-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-en-1a",
+            "text": "Your personal income tax return deserves careful attention. We review all relevant items, including mortgage interest, medical expenses, donations and Box 3 assets."
+          }
+        ]
+      }
+    ],
+    "tr": [
+      {
+        "_type": "block",
+        "_key": "longdesc-tr-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-tr-1a",
+            "text": "Bireysel gelir vergisi beyannameniz özenli bir çalışma gerektirir. Mortgage faizi, sağlık giderleri, bağışlar ve Box 3 varlıkları dahil tüm kalemleri kontrol ediyoruz."
+          }
+        ]
+      }
+    ]
+  },
+
+  "introTrustItems": [
+    {
+      "label": {
+        "nl": "Inkomstenbelasting",
+        "en": "Income tax return",
+        "tr": "Gelir vergisi beyannamesi"
+      }
+    },
+    {
+      "label": {
+        "nl": "Hypotheekrenteaftrek",
+        "en": "Mortgage interest deduction",
+        "tr": "Mortgage faiz indirimi"
+      }
+    },
+    {
+      "label": {
+        "nl": "Box 3-vermogen",
+        "en": "Box 3 assets",
+        "tr": "Box 3 varlıkları"
+      }
+    },
+    {
+      "label": {
+        "nl": "Maximale belastingteruggave",
+        "en": "Maximum tax refund",
+        "tr": "Maksimum vergi iadesi"
+      }
+    }
+  ],
+
+  "pricing": {
+    "startingPrice": "95",
+    "priceSuffix": {
+      "nl": "per aangifte",
+      "en": "per tax return",
+      "tr": "beyanname başına"
+    },
+    "priceNote": {
+      "nl": "Afhankelijk van de complexiteit van uw situatie.",
+      "en": "Depending on the complexity of your tax situation.",
+      "tr": "Vergi durumunuzun karmaşıklığına bağlıdır."
+    }
+  },
+
+  "ctaText": {
+    "nl": "Meer informatie",
+    "en": "More information",
+    "tr": "Daha fazla bilgi"
+  },
+
+  "includedEyebrow": {
+    "nl": "Wat is inbegrepen",
+    "en": "What is included",
+    "tr": "Neler dahil"
+  },
+
+  "includedTitle": {
+    "nl": "Alles voor een correcte en optimale belastingaangifte.",
+    "en": "Everything for an accurate and optimized tax return.",
+    "tr": "Doğru ve optimize edilmiş vergi beyannamesi için her şey."
+  },
+
+  "includedSubtitle": {
+    "nl": "Van controle en optimalisatie tot indiening en toelichting.",
+    "en": "From review and optimization to filing and explanation.",
+    "tr": "Kontrol, optimizasyon, teslim ve açıklama dahil."
+  },
+
+  "includedItems": [
+    {
+      "title": {
+        "nl": "Inkomstenbelasting",
+        "en": "Income tax return",
+        "tr": "Gelir vergisi beyannamesi"
+      },
+      "description": {
+        "nl": "Volledige aangifte inkomstenbelasting.",
+        "en": "Complete income tax return preparation.",
+        "tr": "Eksiksiz gelir vergisi beyannamesi hazırlanması."
+      },
+      "icon": "FileText"
+    },
+    {
+      "title": {
+        "nl": "Hypotheekrenteaftrek",
+        "en": "Mortgage interest deduction",
+        "tr": "Mortgage faiz indirimi"
+      },
+      "description": {
+        "nl": "Optimale verwerking van eigenwoninggegevens.",
+        "en": "Optimal processing of home ownership deductions.",
+        "tr": "Konutla ilgili vergi avantajlarının doğru işlenmesi."
+      },
+      "icon": "Home"
+    },
+    
+    {
+      "title": {
+        "nl": "Zorgkosten en giften",
+        "en": "Medical expenses and donations",
+        "tr": "Sağlık giderleri ve bağışlar"
+      },
+      "description": {
+        "nl": "Controle van aftrekbare kosten.",
+        "en": "Review of deductible expenses.",
+        "tr": "İndirilebilir giderlerin kontrolü."
+      },
+      "icon": "Heart"
+    },
+
+    {
+      "title": {
+        "nl": "Box 3-vermogen",
+        "en": "Box 3 assets",
+        "tr": "Box 3 varlıkları"
+      },
+      "description": {
+        "nl": "Controle van spaargeld, beleggingen en overige bezittingen.",
+        "en": "Review of savings, investments and other assets.",
+        "tr": "Tasarruflar, yatırımlar ve diğer varlıkların analizi."
+      },
+      "icon": "Landmark"
+    },
+
+    {
+      "title": {
+        "nl": "Fiscaal advies",
+        "en": "Tax advice",
+        "tr": "Vergi danışmanlığı"
+      },
+      "description": {
+        "nl": "Praktische aanbevelingen voor belastingbesparing.",
+        "en": "Practical recommendations to save tax.",
+        "tr": "Vergi tasarrufu için pratik öneriler."
+      },
+      "icon": "Shield"
+    },
+
+    {
+      "title": {
+        "nl": "Heldere toelichting",
+        "en": "Clear explanation",
+        "tr": "Net açıklama"
+      },
+      "description": {
+        "nl": "Uitleg over de uitkomst van uw aangifte.",
+        "en": "Explanation of the final tax result.",
+        "tr": "Beyanname sonucunun net açıklaması."
+      },
+      "icon": "MessageCircle"
+    }
+  ],
+
+  "includedFootnote": {
+    "nl": "Inclusief controle, indiening en persoonlijk fiscaal advies.",
+    "en": "Including review, filing and personal tax advice.",
+    "tr": "Kontrol, teslim ve kişisel vergi danışmanlığı dahildir."
+  },
+
+  "benefitsEyebrow": {
+    "nl": "Waarom uw aangifte uitbesteden?",
+    "en": "Why outsource your personal tax return?",
+    "tr": "Neden profesyonel destek almalısınız?"
+  },
+
+  "benefitsTitle": {
+    "nl": "Meer belastingteruggave. Minder zorgen.",
+    "en": "Higher tax refunds. Less stress.",
+    "tr": "Daha yüksek vergi iadesi. Daha az stres."
+  },
+
+  "benefitsSubtitle": {
+    "nl": "Wij benutten alle fiscale mogelijkheden en zorgen voor een foutloze aangifte.",
+    "en": "We use every available deduction and ensure an accurate tax return.",
+    "tr": "Tüm vergi avantajlarını kullanıyor ve hatasız beyanname hazırlıyoruz."
+  },
+
+  "benefits": [
+    {
+      "title": {
+        "nl": "Maximale belastingteruggave",
+        "en": "Maximum tax refund",
+        "tr": "Maksimum vergi iadesi"
+      },
+      "description": {
+        "nl": "Alle aftrekposten worden optimaal benut.",
+        "en": "All deductions are fully utilized.",
+        "tr": "Tüm vergi avantajları en iyi şekilde kullanılır."
+      },
+      "icon": "PiggyBank"
+    },
+    {
+      "title": {
+        "nl": "Geen fouten",
+        "en": "No mistakes",
+        "tr": "Hatasız işlem"
+      },
+      "description": {
+        "nl": "Uw aangifte wordt zorgvuldig gecontroleerd.",
+        "en": "Your return is reviewed thoroughly.",
+        "tr": "Beyanname titizlikle kontrol edilir."
+      },
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": {
+        "nl": "Tijdsbesparing",
+        "en": "Save time",
+        "tr": "Zaman tasarrufu"
+      },
+      "description": {
+        "nl": "U hoeft zich niet te verdiepen in complexe fiscale regels.",
+        "en": "No need to deal with complicated tax rules.",
+        "tr": "Karmaşık vergi kurallarıyla uğraşmazsınız."
+      },
+      "icon": "Clock3"
+    },
+    {
+      "title": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      },
+      "description": {
+        "nl": "Heldere uitleg en praktische aanbevelingen.",
+        "en": "Clear explanations and practical recommendations.",
+        "tr": "Net açıklamalar ve uygulanabilir öneriler."
+      },
+      "icon": "UserCheck"
+    }
+  ],
+
+  "processEyebrow": {
+    "nl": "Werkwijze",
+    "en": "How it works",
+    "tr": "Nasıl çalışır"
+  },
+
+  "processTitle": {
+    "nl": "Zo verzorgen wij uw particuliere aangifte.",
+    "en": "How we prepare your personal tax return.",
+    "tr": "Bireysel vergi beyannamenizi nasıl hazırlıyoruz."
+  },
+
+  "processSubtitle": {
+    "nl": "Een helder proces van documentcontrole tot indiening.",
+    "en": "A simple process from document review to filing.",
+    "tr": "Belge kontrolünden teslime kadar net bir süreç."
+  },
+
+  "process": [
+    {
+      "title": {
+        "nl": "Aanleveren gegevens",
+        "en": "Submit documents",
+        "tr": "Belgelerin teslimi"
+      },
+      "description": {
+        "nl": "U stuurt de benodigde documenten digitaal aan.",
+        "en": "You provide the required documents digitally.",
+        "tr": "Gerekli belgeleri dijital olarak gönderirsiniz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Controle & optimalisatie",
+        "en": "Review & optimization",
+        "tr": "Kontrol ve optimizasyon"
+      },
+      "description": {
+        "nl": "Wij controleren alle relevante aftrekposten.",
+        "en": "We review all applicable deductions.",
+        "tr": "Tüm vergi avantajlarını kontrol ederiz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Indiening",
+        "en": "Filing",
+        "tr": "Teslim"
+      },
+      "description": {
+        "nl": "De aangifte wordt correct en tijdig ingediend.",
+        "en": "Your tax return is filed accurately and on time.",
+        "tr": "Beyanname doğru ve zamanında teslim edilir."
+      }
+    },
+    {
+      "title": {
+        "nl": "Toelichting",
+        "en": "Explanation",
+        "tr": "Açıklama"
+      },
+      "description": {
+        "nl": "U ontvangt een duidelijke uitleg van de uitkomst.",
+        "en": "We explain the final result clearly.",
+        "tr": "Sonuç size net bir şekilde açıklanır."
+      }
+    }
+  ],
+
+  "faqEyebrow": {
+    "nl": "Veelgestelde vragen",
+    "en": "Frequently asked questions",
+    "tr": "Sıkça sorulan sorular"
+  },
+
+  "faqTitle": {
+    "nl": "Heldere antwoorden",
+    "en": "Clear answers",
+    "tr": "Net yanıtlar"
+  },
+
+  "faqSubtitle": {
+    "nl": "Veelgestelde vragen over particuliere aangiftes.",
+    "en": "Common questions about personal tax returns.",
+    "tr": "Bireysel vergi beyannameleri hakkında sık sorulan sorular."
+  },
+
+  "faq": [
+    {
+      "question": {
+        "nl": "Welke documenten heb ik nodig?",
+        "en": "Which documents do I need?",
+        "tr": "Hangi belgeler gerekli?"
+      },
+      "answer": {
+        "nl": [
+          {
+            "_type": "block",
+            "_key": "faq-nl-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-nl-1a",
+                "text": "Meestal zijn uw jaaropgaaf, hypotheekgegevens, bankoverzichten en eventuele gegevens over aftrekposten voldoende."
+              }
+            ]
+          }
+        ],
+        "en": [
+          {
+            "_type": "block",
+            "_key": "faq-en-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-en-1a",
+                "text": "Typically, your annual income statement, mortgage information, bank statements and deduction details are sufficient."
+              }
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "_type": "block",
+            "_key": "faq-tr-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-tr-1a",
+                "text": "Genellikle yıllık gelir belgeniz, mortgage bilgileri, banka dökümleri ve indirimlere ilişkin belgeler yeterlidir."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "ctaEyebrow": {
+    "nl": "Klaar om uw aangifte uit te besteden?",
+    "en": "Ready to outsource your tax return?",
+    "tr": "Vergi beyannamenizi profesyonellere bırakmaya hazır mısınız?"
+  },
+
+  "ctaTitle": {
+    "nl": "Maximale belastingteruggave. Minimale zorgen.",
+    "en": "Maximum tax refund. Minimal hassle.",
+    "tr": "Maksimum vergi iadesi. Minimum stres."
+  },
+
+  "ctaTitleAccent": {
+    "nl": "Plan een gratis kennismaking.",
+    "en": "Schedule a free consultation.",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın."
+  },
+
+  "ctaDescription": {
+    "nl": "Laat uw particuliere aangifte professioneel verzorgen en profiteer van alle fiscale voordelen.",
+    "en": "Have your personal tax return prepared professionally and benefit from all available tax deductions.",
+    "tr": "Bireysel vergi beyannamenizi profesyonelce hazırlatın ve tüm vergi avantajlarından yararlanın."
+  },
+
+  "ctaTrustItems": [
+    {
+      "label": {
+        "nl": "Maximale belastingteruggave",
+        "en": "Maximum tax refund",
+        "tr": "Maksimum vergi iadesi"
+      }
+    },
+    {
+      "label": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Gratis kennismaking",
+        "en": "Free consultation",
+        "tr": "Ücretsiz tanışma"
+      }
+    }
+  ],
+
+  "ctaPrimaryText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule free consultation",
+    "tr": "Ücretsiz tanışma planlayın"
+  },
+
+  "ctaPrimaryLink": "/contact",
+
+  "ctaSecondaryText": {
+    "nl": "WhatsApp ons",
+    "en": "WhatsApp us",
+    "tr": "WhatsApp'tan yazın"
+  },
+
+  "ctaSecondaryLink": "https://wa.me/31612345678",
+
+  "seoTitle": {
+    "nl": "Particuliere Aangifte Inkomstenbelasting | Vanaf €95 | Unit AA",
+    "en": "Personal Income Tax Return | From €95 | Unit AA",
+    "tr": "Bireysel Vergi Beyannamesi | €95'ten başlayan fiyatlarla | Unit AA"
+  },
+
+  "seoDescription": {
+    "nl": "Laat uw particuliere aangifte inkomstenbelasting professioneel verzorgen door Unit AA. Maximale belastingteruggave en persoonlijk fiscaal advies vanaf €95.",
+    "en": "Have your personal income tax return prepared by Unit AA. Maximize your tax refund with professional advice from €95.",
+    "tr": "Bireysel gelir vergisi beyannamenizi Unit AA'ya hazırlatın. Maksimum vergi iadesi ve kişisel vergi danışmanlığı €95'ten başlayan fiyatlarla."
+  }
+}

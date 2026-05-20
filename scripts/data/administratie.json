@@ -1,0 +1,621 @@
+{
+  "_type": "dienst",
+  "title": {
+    "nl": "Administratie uitbesteden",
+    "en": "Outsource your bookkeeping",
+    "tr": "Muhasebenizi dış kaynağa devredin"
+  },
+  "shortTitle": {
+    "nl": "Administratie",
+    "en": "Bookkeeping",
+    "tr": "Muhasebe"
+  },
+  "slug": {
+    "nl": { "current": "administratie" },
+    "en": { "current": "administration" },
+    "tr": { "current": "muhasebe-ve-idari-isler" }
+  },
+  "icon": "ReceiptText",
+  "order": 1,
+  "showOnHome": true,
+
+  "eyebrow": {
+    "nl": "Administratiekantoor in Amsterdam",
+    "en": "Accounting firm in Amsterdam",
+    "tr": "Amsterdam'da muhasebe ofisi"
+  },
+
+  "subtitle": {
+    "nl": "Complete administratie, belastingaangiftes en advies vanaf €100 per maand.",
+    "en": "Complete bookkeeping, tax returns and advice from €100 per month.",
+    "tr": "Aylık €100'dan başlayan tam muhasebe, vergi beyannameleri ve danışmanlık."
+  },
+
+  "description": {
+    "nl": "Wij verzorgen uw volledige administratie, verwerken facturen en bankmutaties en zorgen dat alle fiscale verplichtingen tijdig worden afgehandeld.",
+    "en": "We handle your complete administration, process invoices and bank transactions, and ensure all tax obligations are handled on time.",
+    "tr": "Muhasebenizi eksiksiz yönetiyor, faturaları ve banka işlemlerini işliyor ve tüm vergi yükümlülüklerinin zamanında yerine getirilmesini sağlıyoruz."
+  },
+
+  "badgeTitle": {
+    "nl": "Alles onder één dak",
+    "en": "All under one roof",
+    "tr": "Her şey tek çatı altında"
+  },
+
+  "badgeSubtitle": {
+    "nl": "Van factuur tot aangifte",
+    "en": "From invoice to tax return",
+    "tr": "Faturadan vergi beyannamesine"
+  },
+
+  "microTrust": {
+    "nl": "Geen verrassingen — eerst een heldere offerte op basis van uw situatie.",
+    "en": "No surprises — first a clear quote based on your situation.",
+    "tr": "Sürpriz yok — önce durumunuza göre net bir teklif."
+  },
+
+  "location": {
+    "nl": "Voor ondernemers in Amsterdam, Rotterdam, Utrecht en heel Nederland.",
+    "en": "For entrepreneurs in Amsterdam, Rotterdam, Utrecht and throughout the Netherlands.",
+    "tr": "Amsterdam, Rotterdam, Utrecht ve tüm Hollanda'daki girişimciler için."
+  },
+
+  "primaryCtaText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule a free consultation",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın"
+  },
+
+  "primaryCtaLink": "/contact",
+
+  "secondaryCtaText": {
+    "nl": "Bekijk tarieven",
+    "en": "View pricing",
+    "tr": "Fiyatları görüntüle"
+  },
+
+  "secondaryCtaLink": "/pakketten",
+
+  "trustItems": [
+    {
+      "label": {
+        "nl": "BTW-aangiftes altijd op tijd",
+        "en": "VAT returns always on time",
+        "tr": "KDV beyannameleri her zaman zamanında"
+      }
+    },
+    {
+      "label": {
+        "nl": "Vast aanspreekpunt",
+        "en": "Dedicated contact person",
+        "tr": "Sabit iletişim noktası"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    },
+    {
+      "label": {
+        "nl": "Geen verborgen kosten",
+        "en": "No hidden fees",
+        "tr": "Gizli ücret yok"
+      }
+    }
+  ],
+
+  "stats": [
+    {
+      "value": "500+",
+      "label": {
+        "nl": "Klanten",
+        "en": "Clients",
+        "tr": "Müşteriler"
+      },
+      "icon": "Users"
+    },
+    {
+      "value": "24u",
+      "label": {
+        "nl": "Reactietijd",
+        "en": "Response time",
+        "tr": "Yanıt süresi"
+      },
+      "icon": "Clock"
+    },
+    {
+      "value": "Vanaf €100",
+      "label": {
+        "nl": "Per maand",
+        "en": "Per month",
+        "tr": "Aylık"
+      },
+      "icon": "Euro"
+    }
+  ],
+
+  "testimonial": {
+    "quote": {
+      "nl": "Sinds Unit AA mijn administratie verzorgt, houd ik veel meer tijd over voor mijn klanten.",
+      "en": "Since Unit AA has taken care of my bookkeeping, I have much more time for my clients.",
+      "tr": "Unit AA muhasebemi devraldığından beri müşterilerime çok daha fazla zaman ayırabiliyorum."
+    },
+    "author": "Mark de Vries",
+    "company": "ZZP Timmerman"
+  },
+
+  "shortDesc": {
+    "nl": "Volledige verwerking van inkoop-, verkoopfacturen en bankmutaties.",
+    "en": "Complete processing of purchase, sales invoices and bank transactions.",
+    "tr": "Alış ve satış faturaları ile banka işlemlerinin eksiksiz işlenmesi."
+  },
+
+  "longDesc": {
+    "nl": [
+      {
+        "_type": "block",
+        "_key": "longdesc-nl-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-nl-1a",
+            "text": "Besteed uw administratie uit aan Unit AA en voorkom onnodige stress, gemiste deadlines en fiscale verrassingen. Wij verzorgen uw boekhouding, btw-aangiftes en rapportages zodat u zich volledig kunt richten op ondernemen."
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "_type": "block",
+        "_key": "longdesc-en-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-en-1a",
+            "text": "Outsource your administration to Unit AA and avoid unnecessary stress, missed deadlines and tax surprises. We take care of your bookkeeping, VAT returns and reporting so you can focus entirely on your business."
+          }
+        ]
+      }
+    ],
+    "tr": [
+      {
+        "_type": "block",
+        "_key": "longdesc-tr-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-tr-1a",
+            "text": "Muhasebenizi Unit AA'ya devredin ve gereksiz stresten, kaçırılan son tarihlerden ve mali sürprizlerden kaçının. Muhasebenizi, KDV beyannamelerinizi ve raporlamanızı biz yönetiriz; siz işinizi büyütmeye odaklanırsınız."
+          }
+        ]
+      }
+    ]
+  },
+
+  "introTrustItems": [
+    {
+      "label": {
+        "nl": "Vast aanspreekpunt – geen callcenters",
+        "en": "Dedicated contact – no call centers",
+        "tr": "Sabit iletişim noktası – çağrı merkezi yok"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    },
+    {
+      "label": {
+        "nl": "BTW-aangifte altijd op tijd",
+        "en": "VAT return always on time",
+        "tr": "KDV beyannamesi her zaman zamanında"
+      }
+    },
+    {
+      "label": {
+        "nl": "Actuele cijfers en volledig inzicht",
+        "en": "Up-to-date figures and full insight",
+        "tr": "Güncel rakamlar ve tam şeffaflık"
+      }
+    }
+  ],
+
+  "pricing": {
+    "startingPrice": "100",
+    "priceSuffix": {
+      "nl": "per maand",
+      "en": "per month",
+      "tr": "aylık"
+    },
+    "priceNote": {
+      "nl": "Exclusief btw.",
+      "en": "Excluding VAT.",
+      "tr": "KDV hariç."
+    }
+  },
+
+  "ctaText": {
+    "nl": "Meer informatie",
+    "en": "More information",
+    "tr": "Daha fazla bilgi"
+  },
+
+  "includedEyebrow": {
+    "nl": "Wat is inbegrepen",
+    "en": "What is included",
+    "tr": "Neler dahil"
+  },
+
+  "includedTitle": {
+    "nl": "Alles wat nodig is voor een administratie die klopt.",
+    "en": "Everything you need for accurate bookkeeping.",
+    "tr": "Doğru muhasebe için ihtiyacınız olan her şey."
+  },
+
+  "includedSubtitle": {
+    "nl": "Een complete dienstverlening waarbij uw administratie zorgvuldig wordt verzorgd.",
+    "en": "A complete service where your administration is carefully handled.",
+    "tr": "Muhasebenizin özenle yönetildiği eksiksiz bir hizmet."
+  },
+
+  "includedItems": [
+    {
+      "title": {
+        "nl": "Verwerking facturen",
+        "en": "Invoice processing",
+        "tr": "Fatura işleme"
+      },
+      "description": {
+        "nl": "Inkoop- en verkoopfacturen worden verzameld en correct verwerkt.",
+        "en": "Purchase and sales invoices are collected and processed correctly.",
+        "tr": "Alış ve satış faturaları toplanır ve doğru şekilde işlenir."
+      },
+      "icon": "FileText"
+    },
+    {
+      "title": {
+        "nl": "Bankmutaties",
+        "en": "Bank transactions",
+        "tr": "Banka işlemleri"
+      },
+      "description": {
+        "nl": "Automatische bankkoppelingen zorgen voor een actuele administratie.",
+        "en": "Automatic bank connections keep your bookkeeping up to date.",
+        "tr": "Otomatik banka bağlantıları muhasebenizi güncel tutar."
+      },
+      "icon": "Landmark"
+    },
+    {
+      "title": {
+        "nl": "BTW-aangiftes",
+        "en": "VAT returns",
+        "tr": "KDV beyannameleri"
+      },
+      "description": {
+        "nl": "Uw aangiftes worden tijdig ingediend bij de Belastingdienst.",
+        "en": "Your VAT returns are filed on time.",
+        "tr": "Beyannameleriniz zamanında verilir."
+      },
+      "icon": "CalendarCheck"
+    },
+    {
+      "title": {
+        "nl": "Balans & resultaten",
+        "en": "Balance & results",
+        "tr": "Bilanço ve sonuçlar"
+      },
+      "description": {
+        "nl": "Altijd inzicht in omzet, kosten en winst.",
+        "en": "Always insight into revenue, costs and profit.",
+        "tr": "Her zaman ciro, maliyet ve kâr hakkında bilgi."
+      },
+      "icon": "PieChart"
+    },
+    {
+      "title": {
+        "nl": "Deadlinebewaking",
+        "en": "Deadline monitoring",
+        "tr": "Son tarih takibi"
+      },
+      "description": {
+        "nl": "Wij bewaken fiscale deadlines zodat u geen boetes betaalt.",
+        "en": "We monitor deadlines so you avoid penalties.",
+        "tr": "Vergi son tarihlerini takip ederek cezalardan kaçınmanızı sağlarız."
+      },
+      "icon": "Clock"
+    },
+    {
+      "title": {
+        "nl": "Fiscaal advies",
+        "en": "Tax advice",
+        "tr": "Vergi danışmanlığı"
+      },
+      "description": {
+        "nl": "We signaleren kansen om belasting te besparen.",
+        "en": "We identify opportunities to save tax.",
+        "tr": "Vergi tasarrufu fırsatlarını belirleriz."
+      },
+      "icon": "Shield"
+    }
+  ],
+
+  "includedFootnote": {
+    "nl": "Inclusief persoonlijk contact, deadlinebewaking en proactief advies.",
+    "en": "Including personal contact, deadline monitoring and proactive advice.",
+    "tr": "Kişisel iletişim, son tarih takibi ve proaktif danışmanlık dahildir."
+  },
+
+  "benefitsEyebrow": {
+    "nl": "Waarom uitbesteden?",
+    "en": "Why outsource?",
+    "tr": "Neden dış kaynak kullanmalısınız?"
+  },
+
+  "benefitsTitle": {
+    "nl": "Meer rust, meer inzicht, minder zorgen.",
+    "en": "More peace, more insight, fewer worries.",
+    "tr": "Daha fazla huzur, daha fazla içgörü, daha az endişe."
+  },
+
+  "benefitsSubtitle": {
+    "nl": "Door uw administratie uit te besteden bespaart u tijd en voorkomt u fouten.",
+    "en": "By outsourcing your bookkeeping you save time and avoid mistakes.",
+    "tr": "Muhasebenizi dış kaynak kullanarak zaman kazanır ve hataları önlersiniz."
+  },
+
+  "benefits": [
+    {
+      "title": {
+        "nl": "Meer tijd voor ondernemen",
+        "en": "More time for your business",
+        "tr": "İşiniz için daha fazla zaman"
+      },
+      "description": {
+        "nl": "Focus op uw klanten en groei, wij doen de administratie.",
+        "en": "Focus on your clients and growth while we handle the administration.",
+        "tr": "Siz müşterilerinize ve büyümeye odaklanın, muhasebeyi biz yapalım."
+      },
+      "icon": "Clock3"
+    },
+    {
+      "title": {
+        "nl": "Altijd actuele cijfers",
+        "en": "Always up-to-date figures",
+        "tr": "Her zaman güncel rakamlar"
+      },
+      "description": {
+        "nl": "Continu inzicht in omzet, kosten en fiscale verplichtingen.",
+        "en": "Continuous insight into revenue, costs and tax obligations.",
+        "tr": "Ciro, maliyetler ve vergi yükümlülükleri hakkında sürekli bilgi."
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "title": {
+        "nl": "Geen gemiste deadlines",
+        "en": "No missed deadlines",
+        "tr": "Kaçırılan son tarih yok"
+      },
+      "description": {
+        "nl": "Uw aangiftes worden altijd op tijd ingediend.",
+        "en": "Your tax returns are always filed on time.",
+        "tr": "Beyannameleriniz her zaman zamanında verilir."
+      },
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": {
+        "nl": "Proactief advies",
+        "en": "Proactive advice",
+        "tr": "Proaktif danışmanlık"
+      },
+      "description": {
+        "nl": "Wij signaleren kansen om belasting te besparen.",
+        "en": "We identify opportunities to reduce your tax burden.",
+        "tr": "Vergi yükünüzü azaltacak fırsatları belirleriz."
+      },
+      "icon": "UserCheck"
+    }
+  ],
+
+  "processEyebrow": {
+    "nl": "Werkwijze",
+    "en": "How it works",
+    "tr": "Nasıl çalışır"
+  },
+
+  "processTitle": {
+    "nl": "Zo eenvoudig werkt samenwerken met Unit AA.",
+    "en": "Working with Unit AA is this easy.",
+    "tr": "Unit AA ile çalışmak bu kadar kolay."
+  },
+
+  "processSubtitle": {
+    "nl": "Een helder proces met vaste communicatie.",
+    "en": "A clear process with consistent communication.",
+    "tr": "Sabit iletişimle net bir süreç."
+  },
+
+  "process": [
+    {
+      "title": {
+        "nl": "Kennismaking",
+        "en": "Introduction",
+        "tr": "Tanışma"
+      },
+      "description": {
+        "nl": "We bespreken uw onderneming en wensen.",
+        "en": "We discuss your business and goals.",
+        "tr": "İşletmenizi ve ihtiyaçlarınızı konuşuruz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Aanleveren documenten",
+        "en": "Submit documents",
+        "tr": "Belge teslimi"
+      },
+      "description": {
+        "nl": "U levert documenten aan via e-mail of WhatsApp.",
+        "en": "Send your documents by email or WhatsApp.",
+        "tr": "Belgelerinizi e-posta veya WhatsApp ile gönderirsiniz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Verwerking & controle",
+        "en": "Processing & review",
+        "tr": "İşleme ve kontrol"
+      },
+      "description": {
+        "nl": "Wij verwerken alles zorgvuldig.",
+        "en": "We process everything carefully.",
+        "tr": "Her şeyi dikkatle işleriz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Rapportage & advies",
+        "en": "Reporting & advice",
+        "tr": "Raporlama ve danışmanlık"
+      },
+      "description": {
+        "nl": "U ontvangt actuele cijfers en persoonlijk advies.",
+        "en": "You receive up-to-date figures and personal advice.",
+        "tr": "Güncel rakamlar ve kişisel danışmanlık alırsınız."
+      }
+    }
+  ],
+
+  "faqEyebrow": {
+    "nl": "Veelgestelde vragen",
+    "en": "Frequently asked questions",
+    "tr": "Sıkça sorulan sorular"
+  },
+
+  "faqTitle": {
+    "nl": "Heldere antwoorden",
+    "en": "Clear answers",
+    "tr": "Net yanıtlar"
+  },
+
+  "faqSubtitle": {
+    "nl": "Dit zijn de vragen die we het vaakst krijgen.",
+    "en": "These are the questions we get most often.",
+    "tr": "En sık aldığımız sorular bunlar."
+  },
+
+  "faq": [
+    {
+      "question": {
+        "nl": "Wat kost administratie uitbesteden?",
+        "en": "What does outsourcing bookkeeping cost?",
+        "tr": "Muhasebe hizmeti ne kadar tutar?"
+      },
+      "answer": {
+        "nl": [
+          {
+            "_type": "block",
+            "_key": "faq-nl-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-nl-1a",
+                "text": "Onze tarieven starten vanaf €100 per maand, afhankelijk van het aantal transacties en de complexiteit van uw administratie."
+              }
+            ]
+          }
+        ],
+        "en": [
+          {
+            "_type": "block",
+            "_key": "faq-en-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-en-1a",
+                "text": "Our rates start from €100 per month, depending on the number of transactions and the complexity of your bookkeeping."
+              }
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "_type": "block",
+            "_key": "faq-tr-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-tr-1a",
+                "text": "Fiyatlarımız işlem sayısına ve muhasebenizin karmaşıklığına bağlı olarak aylık €100'dan başlamaktadır."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "ctaEyebrow": {
+  "nl": "Klaar voor een administratie die klopt?",
+  "en": "Ready for bookkeeping that works?",
+  "tr": "Düzgün muhasebe için hazır mısınız?"
+},
+"ctaTitle": {
+  "nl": "Meer overzicht in uw administratie.",
+  "en": "More control over your bookkeeping.",
+  "tr": "Muhasebenizde daha fazla kontrol."
+},
+"ctaTitleAccent": {
+  "nl": "Ücretsiz bir görüşme planlayın.",
+  "en": "Schedule a free consultation.",
+  "tr": "Ücretsiz bir görüşme planlayın."
+},
+"ctaDescription": {
+  "nl": "Plan een gratis kennismaking en ontdek wat Unit AA voor u kan betekenen.",
+  "en": "Schedule a free introduction and discover what Unit AA can do for you.",
+  "tr": "Ücretsiz bir tanışma görüşmesi planlayın ve Unit AA'nın sizin için neler yapabileceğini keşfedin."
+},
+"ctaTrustItems": [
+  { "label": { "nl": "24 uur reactietijd", "en": "24 hour response time", "tr": "24 saat yanıt süresi" } },
+  { "label": { "nl": "Gratis kennismaking", "en": "Free consultation", "tr": "Ücretsiz tanışma" } },
+  { "label": { "nl": "Geen verborgen kosten", "en": "No hidden fees", "tr": "Gizli ücret yok" } }
+],
+"ctaPrimaryText": {
+  "nl": "Plan gratis kennismaking",
+  "en": "Schedule free consultation",
+  "tr": "Ücretsiz tanışma planlayın"
+},
+"ctaPrimaryLink": "/contact",
+"ctaSecondaryText": {
+  "nl": "WhatsApp ons",
+  "en": "WhatsApp us",
+  "tr": "WhatsApp'tan yazın"
+},
+"ctaSecondaryLink": "https://wa.me/31612345678",
+
+  "seoTitle": {
+    "nl": "Administratie uitbesteden vanaf €100 p/m | Unit AA",
+    "en": "Outsource bookkeeping from €100/month | Unit AA",
+    "tr": "Aylık €100'dan muhasebe hizmeti | Unit AA"
+  },
+
+  "seoDescription": {
+    "nl": "Besteed uw administratie uit aan Unit AA. Complete boekhouding, btw-aangiftes en persoonlijk advies vanaf €100 per maand.",
+    "en": "Outsource your bookkeeping to Unit AA. Complete bookkeeping, VAT returns and personal advice from €100 per month.",
+    "tr": "Muhasebenizi Unit AA'ya devredin. Aylık €100'dan başlayan eksiksiz muhasebe, KDV beyannameleri ve kişisel danışmanlık."
+  }
+}

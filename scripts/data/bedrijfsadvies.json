@@ -1,0 +1,647 @@
+{
+  "_type": "dienst",
+  "title": {
+    "nl": "Bedrijfsadvies",
+    "en": "Business Advisory",
+    "tr": "İşletme Danışmanlığı"
+  },
+  "shortTitle": {
+    "nl": "Bedrijfsadvies",
+    "en": "Business Advice",
+    "tr": "İşletme Danışmanlığı"
+  },
+  "slug": {
+    "nl": { "current": "bedrijfsadvies" },
+    "en": { "current": "business-advisory" },
+    "tr": { "current": "isletme-danismanligi" }
+  },
+  "icon": "Briefcase",
+  "order": 7,
+  "showOnHome": true,
+
+  "eyebrow": {
+    "nl": "Strategisch financieel en fiscaal advies",
+    "en": "Strategic financial and tax advice",
+    "tr": "Stratejik finansal ve vergi danışmanlığı"
+  },
+
+  "subtitle": {
+    "nl": "Praktisch advies voor groei, winstoptimalisatie en betere zakelijke beslissingen.",
+    "en": "Practical advice for growth, profit optimization and smarter business decisions.",
+    "tr": "Büyüme, kârlılık ve daha iyi kararlar için pratik danışmanlık."
+  },
+
+  "description": {
+    "nl": "Wij denken actief met u mee over de financiële, fiscale en strategische keuzes binnen uw onderneming.",
+    "en": "We actively advise you on financial, tax and strategic decisions within your business.",
+    "tr": "İşletmenizdeki finansal, vergi ve stratejik kararlar konusunda size aktif olarak danışmanlık veriyoruz."
+  },
+
+  "badgeTitle": {
+    "nl": "Meer dan alleen cijfers",
+    "en": "More than just numbers",
+    "tr": "Rakamların ötesinde"
+  },
+
+  "badgeSubtitle": {
+    "nl": "Uw vaste sparringpartner",
+    "en": "Your dedicated sparring partner",
+    "tr": "Sabit stratejik danışmanınız"
+  },
+
+  "microTrust": {
+    "nl": "Praktisch advies dat direct toepasbaar is.",
+    "en": "Practical advice you can apply immediately.",
+    "tr": "Hemen uygulanabilir pratik öneriler."
+  },
+
+  "location": {
+    "nl": "Voor ondernemers in Amsterdam en heel Nederland.",
+    "en": "For entrepreneurs throughout the Netherlands.",
+    "tr": "Amsterdam ve tüm Hollanda'daki girişimciler için."
+  },
+
+  "primaryCtaText": {
+    "nl": "Plan gratis adviesgesprek",
+    "en": "Schedule a free strategy call",
+    "tr": "Ücretsiz danışmanlık görüşmesi planlayın"
+  },
+
+  "primaryCtaLink": "/contact",
+
+  "secondaryCtaText": {
+    "nl": "Bekijk tarieven",
+    "en": "View pricing",
+    "tr": "Fiyatları görüntüle"
+  },
+
+  "secondaryCtaLink": "/pakketten",
+
+  "trustItems": [
+    {
+      "label": {
+        "nl": "Strategisch advies op maat",
+        "en": "Tailored strategic advice",
+        "tr": "Size özel stratejik danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Focus op groei en rendement",
+        "en": "Focus on growth and profitability",
+        "tr": "Büyüme ve kârlılık odaklı"
+      }
+    },
+    {
+      "label": {
+        "nl": "Direct contact met uw adviseur",
+        "en": "Direct contact with your advisor",
+        "tr": "Danışmanınızla doğrudan iletişim"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    }
+  ],
+
+  "stats": [
+    {
+      "value": "500+",
+      "label": {
+        "nl": "Ondernemers geadviseerd",
+        "en": "Entrepreneurs advised",
+        "tr": "Danışmanlık verilen girişimciler"
+      },
+      "icon": "Users"
+    },
+    {
+      "value": "12+",
+      "label": {
+        "nl": "Jaar ervaring",
+        "en": "Years of experience",
+        "tr": "Yıllık deneyim"
+      },
+      "icon": "Award"
+    },
+    {
+      "value": "24u",
+      "label": {
+        "nl": "Reactietijd",
+        "en": "Response time",
+        "tr": "Yanıt süresi"
+      },
+      "icon": "Clock"
+    }
+  ],
+
+  "testimonial": {
+    "quote": {
+      "nl": "Unit AA denkt echt met ons mee. Hun advies heeft ons geholpen om winstgevender en efficiënter te werken.",
+      "en": "Unit AA truly thinks along with us. Their advice helped us become more profitable and efficient.",
+      "tr": "Unit AA gerçekten bizimle birlikte düşünüyor. Tavsiyeleri sayesinde daha kârlı ve verimli çalışıyoruz."
+    },
+    "author": "Mustafa Yıldız",
+    "company": "Groeiend MKB-bedrijf"
+  },
+
+  "shortDesc": {
+    "nl": "Strategisch financieel en fiscaal advies voor ondernemers die willen groeien.",
+    "en": "Strategic financial and tax advice for entrepreneurs who want to grow.",
+    "tr": "Büyümek isteyen girişimciler için stratejik finansal ve vergi danışmanlığı."
+  },
+
+  "longDesc": {
+    "nl": [
+      {
+        "_type": "block",
+        "_key": "longdesc-nl-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-nl-1a",
+            "text": "Succesvol ondernemen vraagt om meer dan een correcte administratie. Met ons bedrijfsadvies krijgt u een ervaren sparringpartner die meedenkt over winst, cashflow, investeringen, belastingbesparing en groeistrategie."
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "_type": "block",
+        "_key": "longdesc-en-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-en-1a",
+            "text": "Running a successful business requires more than accurate bookkeeping. Our advisory service helps you improve profitability, cash flow, tax efficiency and strategic decision-making."
+          }
+        ]
+      }
+    ],
+    "tr": [
+      {
+        "_type": "block",
+        "_key": "longdesc-tr-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-tr-1a",
+            "text": "Başarılı bir işletme yalnızca doğru muhasebeden ibaret değildir. Danışmanlığımız; kârlılık, nakit akışı, vergi optimizasyonu ve büyüme stratejileri konusunda size destek sağlar."
+          }
+        ]
+      }
+    ]
+  },
+
+  "introTrustItems": [
+    {
+      "label": {
+        "nl": "Winstoptimalisatie",
+        "en": "Profit optimization",
+        "tr": "Kârlılık optimizasyonu"
+      }
+    },
+    {
+      "label": {
+        "nl": "Cashflowadvies",
+        "en": "Cash flow advice",
+        "tr": "Nakit akışı danışmanlığı"
+      }
+    },
+    {
+      "label": {
+        "nl": "Fiscaal strategisch advies",
+        "en": "Strategic tax advice",
+        "tr": "Stratejik vergi danışmanlığı"
+      }
+    },
+    {
+      "label": {
+        "nl": "Groeibegeleiding",
+        "en": "Growth support",
+        "tr": "Büyüme desteği"
+      }
+    }
+  ],
+
+  "pricing": {
+    "startingPrice": "150",
+    "priceSuffix": {
+      "nl": "per uur",
+      "en": "per hour",
+      "tr": "saatlik"
+    },
+    "priceNote": {
+      "nl": "Of op basis van een vaste prijsafspraak.",
+      "en": "Or based on a fixed project fee.",
+      "tr": "Veya sabit proje ücreti üzerinden."
+    }
+  },
+
+  "ctaText": {
+    "nl": "Meer informatie",
+    "en": "More information",
+    "tr": "Daha fazla bilgi"
+  },
+
+  "includedEyebrow": {
+    "nl": "Waarover adviseren wij?",
+    "en": "What we advise on",
+    "tr": "Hangi konularda danışmanlık veriyoruz?"
+  },
+
+  "includedTitle": {
+    "nl": "Praktisch advies voor elke groeifase van uw onderneming.",
+    "en": "Practical advice for every stage of your business.",
+    "tr": "İşletmenizin her aşaması için pratik danışmanlık."
+  },
+
+  "includedSubtitle": {
+    "nl": "Van winstoptimalisatie tot investeringsbeslissingen.",
+    "en": "From profit optimization to investment decisions.",
+    "tr": "Kârlılık optimizasyonundan yatırım kararlarına kadar."
+  },
+
+  "includedItems": [
+    {
+      "title": {
+        "nl": "Winstoptimalisatie",
+        "en": "Profit optimization",
+        "tr": "Kârlılık optimizasyonu"
+      },
+      "description": {
+        "nl": "Analyse van marges, kosten en verbeterkansen.",
+        "en": "Analysis of margins, costs and opportunities.",
+        "tr": "Marjlar, maliyetler ve fırsatların analizi."
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "title": {
+        "nl": "Cashflowplanning",
+        "en": "Cash flow planning",
+        "tr": "Nakit akışı planlaması"
+      },
+      "description": {
+        "nl": "Meer grip op liquiditeit en toekomstige uitgaven.",
+        "en": "Greater control over liquidity and future expenses.",
+        "tr": "Likidite ve gelecekteki ödemeler üzerinde daha fazla kontrol."
+      },
+      "icon": "Wallet"
+    },
+    {
+      "title": {
+        "nl": "Investeringen",
+        "en": "Investment decisions",
+        "tr": "Yatırım kararları"
+      },
+      "description": {
+        "nl": "Onderbouwing van investeringskeuzes.",
+        "en": "Financial analysis of investment opportunities.",
+        "tr": "Yatırım fırsatlarının finansal analizi."
+      },
+      "icon": "BarChart3"
+    },
+    {
+      "title": {
+        "nl": "Fiscaal advies",
+        "en": "Tax strategy",
+        "tr": "Vergi stratejisi"
+      },
+      "description": {
+        "nl": "Advies om uw fiscale positie te optimaliseren.",
+        "en": "Advice to optimize your tax position.",
+        "tr": "Vergi pozisyonunuzu optimize etmeye yönelik danışmanlık."
+      },
+      "icon": "Shield"
+    },
+    {
+      "title": {
+        "nl": "Structuuradvies",
+        "en": "Business structure advice",
+        "tr": "Şirket yapısı danışmanlığı"
+      },
+      "description": {
+        "nl": "BV, holdingstructuren en reorganisaties.",
+        "en": "BVs, holding structures and reorganizations.",
+        "tr": "BV, holding yapıları ve yeniden yapılanmalar."
+      },
+      "icon": "Building2"
+    },
+    {
+      "title": {
+        "nl": "Sparringpartner",
+        "en": "Strategic sparring partner",
+        "tr": "Stratejik danışman"
+      },
+      "description": {
+        "nl": "Een ervaren adviseur om mee te sparren.",
+        "en": "An experienced advisor to think with you.",
+        "tr": "Birlikte düşünen deneyimli bir danışman."
+      },
+      "icon": "MessageCircle"
+    }
+  ],
+
+  "includedFootnote": {
+    "nl": "Praktisch advies dat direct toepasbaar is.",
+    "en": "Practical advice you can implement immediately.",
+    "tr": "Hemen uygulanabilir pratik danışmanlık."
+  },
+
+  "benefitsEyebrow": {
+    "nl": "Waarom bedrijfsadvies?",
+    "en": "Why business advisory?",
+    "tr": "Neden işletme danışmanlığı?"
+  },
+
+  "benefitsTitle": {
+    "nl": "Betere beslissingen. Meer winst. Minder onzekerheid.",
+    "en": "Better decisions. More profit. Less uncertainty.",
+    "tr": "Daha iyi kararlar. Daha fazla kâr. Daha az belirsizlik."
+  },
+
+  "benefitsSubtitle": {
+    "nl": "Krijg een ervaren sparringpartner die met u meedenkt.",
+    "en": "Work with an experienced advisor who thinks alongside you.",
+    "tr": "Sizinle birlikte düşünen deneyimli bir danışmanla çalışın."
+  },
+
+  "benefits": [
+    {
+      "title": {
+        "nl": "Meer winst",
+        "en": "Increase profitability",
+        "tr": "Kârlılığı artırın"
+      },
+      "description": {
+        "nl": "Ontdek kansen om marges en rendement te verbeteren.",
+        "en": "Identify opportunities to improve margins and returns.",
+        "tr": "Marjları ve getiriyi artıracak fırsatları bulun."
+      },
+      "icon": "PiggyBank"
+    },
+    {
+      "title": {
+        "nl": "Betere beslissingen",
+        "en": "Better decisions",
+        "tr": "Daha iyi kararlar"
+      },
+      "description": {
+        "nl": "Neem beslissingen op basis van cijfers en scenario's.",
+        "en": "Make decisions based on data and scenarios.",
+        "tr": "Kararlarınızı veriler ve senaryolarla destekleyin."
+      },
+      "icon": "LineChart"
+    },
+    {
+      "title": {
+        "nl": "Minder risico",
+        "en": "Reduce risk",
+        "tr": "Riskleri azaltın"
+      },
+      "description": {
+        "nl": "Signalering van fiscale en financiële risico's.",
+        "en": "Identify financial and tax risks early.",
+        "tr": "Finansal ve vergi risklerini erken tespit edin."
+      },
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": {
+        "nl": "Persoonlijke begeleiding",
+        "en": "Personal support",
+        "tr": "Kişisel rehberlik"
+      },
+      "description": {
+        "nl": "Direct contact met uw vaste adviseur.",
+        "en": "Direct access to your dedicated advisor.",
+        "tr": "Sabit danışmanınızla doğrudan iletişim."
+      },
+      "icon": "UserCheck"
+    }
+  ],
+
+  "processEyebrow": {
+    "nl": "Werkwijze",
+    "en": "How it works",
+    "tr": "Nasıl çalışır"
+  },
+
+  "processTitle": {
+    "nl": "Zo ondersteunen wij uw groei.",
+    "en": "How we support your growth.",
+    "tr": "Büyümenizi nasıl destekliyoruz."
+  },
+
+  "processSubtitle": {
+    "nl": "Van analyse tot concrete aanbevelingen.",
+    "en": "From analysis to actionable recommendations.",
+    "tr": "Analizden uygulanabilir önerilere kadar."
+  },
+
+  "process": [
+    {
+      "title": {
+        "nl": "Kennismaking",
+        "en": "Introduction",
+        "tr": "Tanışma"
+      },
+      "description": {
+        "nl": "We bespreken uw doelen, uitdagingen en kansen.",
+        "en": "We discuss your goals, challenges and opportunities.",
+        "tr": "Hedeflerinizi, zorlukları ve fırsatları değerlendiririz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Analyse",
+        "en": "Analysis",
+        "tr": "Analiz"
+      },
+      "description": {
+        "nl": "We analyseren cijfers, processen en scenario's.",
+        "en": "We analyze figures, processes and scenarios.",
+        "tr": "Rakamları, süreçleri ve senaryoları analiz ederiz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Advies",
+        "en": "Advice",
+        "tr": "Danışmanlık"
+      },
+      "description": {
+        "nl": "U ontvangt concrete aanbevelingen.",
+        "en": "You receive clear and actionable recommendations.",
+        "tr": "Size net ve uygulanabilir öneriler sunarız."
+      }
+    },
+    {
+      "title": {
+        "nl": "Begeleiding",
+        "en": "Implementation support",
+        "tr": "Uygulama desteği"
+      },
+      "description": {
+        "nl": "Wij ondersteunen u bij de uitvoering.",
+        "en": "We support you with implementation.",
+        "tr": "Önerilerin uygulanmasında yanınızda oluruz."
+      }
+    }
+  ],
+
+  "faqEyebrow": {
+    "nl": "Veelgestelde vragen",
+    "en": "Frequently asked questions",
+    "tr": "Sıkça sorulan sorular"
+  },
+
+  "faqTitle": {
+    "nl": "Heldere antwoorden",
+    "en": "Clear answers",
+    "tr": "Net yanıtlar"
+  },
+
+  "faqSubtitle": {
+    "nl": "Veelgestelde vragen over bedrijfsadvies.",
+    "en": "Common questions about business advisory.",
+    "tr": "İşletme danışmanlığı hakkında sık sorulan sorular."
+  },
+
+  "faq": [
+    {
+      "question": {
+        "nl": "Voor welke ondernemers is bedrijfsadvies geschikt?",
+        "en": "Who is business advisory for?",
+        "tr": "İşletme danışmanlığı kimler için uygundur?"
+      },
+      "answer": {
+        "nl": [
+          {
+            "_type": "block",
+            "_key": "faq-nl-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-nl-1a",
+                "text": "Voor ondernemers die willen groeien, meer winst willen maken en betere financiële en strategische beslissingen willen nemen."
+              }
+            ]
+          }
+        ],
+        "en": [
+          {
+            "_type": "block",
+            "_key": "faq-en-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-en-1a",
+                "text": "For entrepreneurs who want to grow, improve profitability and make better strategic decisions."
+              }
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "_type": "block",
+            "_key": "faq-tr-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-tr-1a",
+                "text": "Büyümek, kârlılığını artırmak ve daha iyi stratejik kararlar almak isteyen girişimciler için uygundur."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "ctaEyebrow": {
+    "nl": "Klaar om slimmer te ondernemen?",
+    "en": "Ready to make smarter business decisions?",
+    "tr": "Daha akıllı kararlar almaya hazır mısınız?"
+  },
+
+  "ctaTitle": {
+    "nl": "Uw onderneming verdient een sterke sparringpartner.",
+    "en": "Your business deserves a strong strategic partner.",
+    "tr": "İşletmeniz güçlü bir stratejik danışmanı hak ediyor."
+  },
+
+  "ctaTitleAccent": {
+    "nl": "Plan een gratis adviesgesprek.",
+    "en": "Schedule a free strategy call.",
+    "tr": "Ücretsiz danışmanlık görüşmesi planlayın."
+  },
+
+  "ctaDescription": {
+    "nl": "Ontdek hoe wij u helpen met winstoptimalisatie, strategische keuzes en duurzame groei.",
+    "en": "Discover how we help you optimize profits, make better decisions and grow sustainably.",
+    "tr": "Kârlılığınızı artırmak, doğru kararlar almak ve sürdürülebilir büyümek için nasıl destek verdiğimizi keşfedin."
+  },
+
+  "ctaTrustItems": [
+    {
+      "label": {
+        "nl": "Strategisch advies",
+        "en": "Strategic advice",
+        "tr": "Stratejik danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Persoonlijke begeleiding",
+        "en": "Personal support",
+        "tr": "Kişisel rehberlik"
+      }
+    },
+    {
+      "label": {
+        "nl": "Gratis kennismaking",
+        "en": "Free consultation",
+        "tr": "Ücretsiz tanışma"
+      }
+    }
+  ],
+
+  "ctaPrimaryText": {
+    "nl": "Plan gratis adviesgesprek",
+    "en": "Schedule free strategy call",
+    "tr": "Ücretsiz danışmanlık planlayın"
+  },
+
+  "ctaPrimaryLink": "/contact",
+
+  "ctaSecondaryText": {
+    "nl": "WhatsApp ons",
+    "en": "WhatsApp us",
+    "tr": "WhatsApp'tan yazın"
+  },
+
+  "ctaSecondaryLink": "https://wa.me/31612345678",
+
+  "seoTitle": {
+    "nl": "Bedrijfsadvies voor ondernemers | Strategisch financieel advies | Unit AA",
+    "en": "Business Advisory for Entrepreneurs | Strategic Financial Advice | Unit AA",
+    "tr": "İşletme Danışmanlığı | Stratejik Finansal Danışmanlık | Unit AA"
+  },
+
+  "seoDescription": {
+    "nl": "Strategisch bedrijfsadvies voor ondernemers. Krijg ondersteuning bij winstoptimalisatie, cashflow, fiscale strategie en groeibeslissingen.",
+    "en": "Strategic business advisory for entrepreneurs. Improve profitability, cash flow, tax efficiency and business growth.",
+    "tr": "Girişimciler için stratejik işletme danışmanlığı. Kârlılık, nakit akışı, vergi stratejisi ve büyüme kararlarında destek alın."
+  }
+}

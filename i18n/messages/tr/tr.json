@@ -1,0 +1,9 @@
+{
+
+  "Contact": {
+    "phone": "Telefon",
+    "email": "E-posta",
+    "kvk": "Ticaret Sicil No",
+    "btwNumber": "KDV Numarası"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "_type": "pakkettenPage",
+  "_id": "pakkettenPage",
+  "heroEyebrow": {
+    "nl": "Transparante tarieven",
+    "en": "Transparent pricing",
+    "tr": "Şeffaf fiyatlandırma"
+  },
+  "heroTitle": {
+    "nl": "Kies het pakket dat past bij",
+    "en": "Choose the package that fits",
+    "tr": "İşletmenize uygun paketi seçin"
+  },
+  "heroTitleAccent": {
+    "nl": "uw onderneming.",
+    "en": "your business.",
+    "tr": "sizin için."
+  },
+  "heroSubtitle": {
+    "nl": "Duidelijke maandprijzen zonder verrassingen. Inclusief persoonlijk advies, ondersteuning en een vaste contactpersoon.",
+    "en": "Clear monthly prices without surprises. Including personal advice, support and a dedicated contact person.",
+    "tr": "Sürprizsiz net aylık fiyatlar. Kişisel danışmanlık, destek ve sabit iletişim noktası dahil."
+  },
+  "heroTrustItems": [
+    { "label": { "nl": "Transparante prijzen", "en": "Transparent pricing", "tr": "Şeffaf fiyatlar" } },
+    { "label": { "nl": "Geen verborgen kosten", "en": "No hidden fees", "tr": "Gizli ücret yok" } },
+    { "label": { "nl": "Persoonlijk advies", "en": "Personal advice", "tr": "Kişisel danışmanlık" } },
+    { "label": { "nl": "Gratis kennismaking", "en": "Free consultation", "tr": "Ücretsiz tanışma" } }
+  ],
+  "vergelijkingEyebrow": {
+    "nl": "Pakketvergelijking",
+    "en": "Package comparison",
+    "tr": "Paket karşılaştırması"
+  },
+  "vergelijkingTitle": {
+    "nl": "Wat zit er in elk pakket?",
+    "en": "What's included in each package?",
+    "tr": "Her pakette neler var?"
+  },
+  "vergelijkingSubtitle": {
+    "nl": "Vergelijk de pakketten en kies wat bij uw situatie past.",
+    "en": "Compare packages and choose what fits your situation.",
+    "tr": "Paketleri karşılaştırın ve durumunuza uygun olanı seçin."
+  },
+  "vergelijkingRijen": [
+    { "feature": { "nl": "BTW-aangiftes", "en": "VAT returns", "tr": "KDV beyannameleri" }, "starter": "✓", "groei": "✓", "bv": "✓", "vastgoed": "—" },
+    { "feature": { "nl": "Inkomstenbelasting", "en": "Income tax", "tr": "Gelir vergisi" }, "starter": "✓", "groei": "✓", "bv": "✓", "vastgoed": "—" },
+    { "feature": { "nl": "Jaarrekening", "en": "Annual accounts", "tr": "Yıllık tablolar" }, "starter": "—", "groei": "✓", "bv": "✓", "vastgoed": "—" },
+    { "feature": { "nl": "Online administratie", "en": "Online administration", "tr": "Online muhasebe" }, "starter": "✓", "groei": "✓", "bv": "✓", "vastgoed": "—" },
+    { "feature": { "nl": "Bankkoppeling", "en": "Bank connection", "tr": "Banka bağlantısı" }, "starter": "✓", "groei": "✓", "bv": "✓", "vastgoed": "—" },
+    { "feature": { "nl": "VPB-aangifte", "en": "Corporate tax", "tr": "Kurumlar vergisi" }, "starter": "—", "groei": "—", "bv": "✓", "vastgoed": "—" },
+    { "feature": { "nl": "DGA salaris", "en": "DGA salary", "tr": "DGA maaşı" }, "starter": "—", "groei": "—", "bv": "✓", "vastgoed": "—" },
+    { "feature": { "nl": "Deponeren jaarstukken", "en": "Filing annual accounts", "tr": "Yıllık belge ibrazı" }, "starter": "—", "groei": "—", "bv": "✓", "vastgoed": "—" },
+    { "feature": { "nl": "Aankoopanalyse", "en": "Purchase analysis", "tr": "Satın alma analizi" }, "starter": "—", "groei": "—", "bv": "—", "vastgoed": "✓" },
+    { "feature": { "nl": "Hypotheekadvies", "en": "Mortgage advice", "tr": "Mortgage danışmanlığı" }, "starter": "—", "groei": "—", "bv": "—", "vastgoed": "✓" },
+    { "feature": { "nl": "Fiscale optimalisatie", "en": "Tax optimization", "tr": "Vergi optimizasyonu" }, "starter": "—", "groei": "—", "bv": "—", "vastgoed": "✓" },
+    { "feature": { "nl": "Persoonlijk advies", "en": "Personal advice", "tr": "Kişisel danışmanlık" }, "starter": "✓", "groei": "✓", "bv": "✓", "vastgoed": "✓" }
+  ],
+  "faqEyebrow": {
+    "nl": "Veelgestelde vragen",
+    "en": "Frequently asked questions",
+    "tr": "Sıkça sorulan sorular"
+  },
+  "faqTitle": {
+    "nl": "Vragen over onze pakketten",
+    "en": "Questions about our packages",
+    "tr": "Paketlerimiz hakkında sorular"
+  },
+  "faqSubtitle": {
+    "nl": "Alles wat u wilt weten over onze tarieven en dienstverlening.",
+    "en": "Everything you want to know about our rates and services.",
+    "tr": "Fiyatlarımız ve hizmetlerimiz hakkında bilmek istediğiniz her şey."
+  },
+  "faqItems": [
+    {
+      "question": { "nl": "Zit ik vast aan een contract?", "en": "Am I locked into a contract?", "tr": "Sözleşmeye bağlı mıyım?" },
+      "answer": { "nl": "Nee, wij werken zonder langlopende contracten. U kunt maandelijks opzeggen.", "en": "No, we work without long-term contracts. You can cancel monthly.", "tr": "Hayır, uzun vadeli sözleşmeler olmadan çalışıyoruz. Aylık iptal edebilirsiniz." }
+    },
+    {
+      "question": { "nl": "Kan ik van pakket wisselen?", "en": "Can I switch packages?", "tr": "Paket değiştirebilir miyim?" },
+      "answer": { "nl": "Ja, u kunt op elk moment upgraden of downgraden naar een ander pakket.", "en": "Yes, you can upgrade or downgrade at any time.", "tr": "Evet, istediğiniz zaman yükseltme veya düşürme yapabilirsiniz." }
+    },
+    {
+      "question": { "nl": "Wat als mijn administratie groeit?", "en": "What if my administration grows?", "tr": "Muhasebemin hacmi artarsa ne olur?" },
+      "answer": { "nl": "Dan bespreken we samen of een hoger pakket of maatwerk beter past.", "en": "Then we discuss together whether a higher package or custom solution fits better.", "tr": "O zaman daha yüksek bir paket veya özel çözümün daha uygun olup olmadığını birlikte değerlendiririz." }
+    },
+    {
+      "question": { "nl": "Zijn de prijzen inclusief BTW?", "en": "Are prices including VAT?", "tr": "Fiyatlar KDV dahil mi?" },
+      "answer": { "nl": "Nee, alle genoemde prijzen zijn exclusief BTW.", "en": "No, all prices are excluding VAT.", "tr": "Hayır, tüm fiyatlar KDV hariçtir." }
+    },
+    {
+      "question": { "nl": "Hoe start ik?", "en": "How do I get started?", "tr": "Nasıl başlarım?" },
+      "answer": { "nl": "Plan een gratis kennismaking. We bespreken uw situatie en adviseren het beste pakket.", "en": "Schedule a free consultation. We discuss your situation and advise the best package.", "tr": "Ücretsiz bir tanışma görüşmesi planlayın. Durumunuzu değerlendirip en uygun paketi öneririz." }
+    }
+  ],
+  "ctaEyebrow": {
+    "nl": "Niet zeker welk pakket bij u past?",
+    "en": "Not sure which package fits you?",
+    "tr": "Hangi paketin size uygun olduğundan emin değil misiniz?"
+  },
+  "ctaTitle": {
+    "nl": "Plan een gratis kennismaking.",
+    "en": "Schedule a free consultation.",
+    "tr": "Ücretsiz bir tanışma görüşmesi planlayın."
+  },
+  "ctaSubtitle": {
+    "nl": "We adviseren u welk pakket het beste aansluit op uw situatie.",
+    "en": "We advise you which package best suits your situation.",
+    "tr": "Durumunuza en uygun paketi size öneririz."
+  },
+  "ctaPrimaryText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule free consultation",
+    "tr": "Ücretsiz tanışma planlayın"
+  },
+  "ctaPrimaryLink": "/contact",
+  "ctaSecondaryText": {
+    "nl": "WhatsApp ons",
+    "en": "WhatsApp us",
+    "tr": "WhatsApp'tan yazın"
+  },
+  "ctaSecondaryLink": "https://wa.me/31615523864",
+  "disclaimer": {
+    "nl": "Alle genoemde tarieven zijn exclusief btw, vanaf-prijzen en afhankelijk van de omvang van de administratie, het aantal transacties en de gewenste dienstverlening.",
+    "en": "All rates are excluding VAT, starting prices and depend on the scope of the administration, number of transactions and desired services.",
+    "tr": "Tüm fiyatlar KDV hariç, başlangıç fiyatlarıdır ve muhasebenin kapsamına, işlem sayısına ve istenen hizmetlere bağlıdır."
+  },
+  "seoTitle": {
+    "nl": "Pakketten & Tarieven | Unit AA",
+    "en": "Packages & Pricing | Unit AA",
+    "tr": "Paketler ve Fiyatlar | Unit AA"
+  },
+  "seoDescription": {
+    "nl": "Bekijk de pakketten en tarieven van Unit AA. Transparante prijzen voor administratie, boekhouding, salarisadministratie en meer.",
+    "en": "View Unit AA's packages and pricing. Transparent rates for administration, bookkeeping, payroll and more.",
+    "tr": "Unit AA'nın paketlerini ve fiyatlarını inceleyin. Muhasebe, bordro ve daha fazlası için şeffaf fiyatlar."
+  }
+}

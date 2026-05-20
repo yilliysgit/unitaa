@@ -1,0 +1,647 @@
+{
+  "_type": "dienst",
+  "title": {
+    "nl": "Jaarrekening",
+    "en": "Annual Financial Statements",
+    "tr": "Yıllık Finansal Tablolar"
+  },
+  "shortTitle": {
+    "nl": "Jaarrekening",
+    "en": "Annual Statements",
+    "tr": "Yıllık Tablolar"
+  },
+  "slug": {
+    "nl": { "current": "jaarrekening" },
+    "en": { "current": "annual-financial-statements" },
+    "tr": { "current": "yillik-finansal-tablolar" }
+  },
+  "icon": "Calculator",
+  "order": 5,
+  "showOnHome": true,
+
+  "eyebrow": {
+    "nl": "Jaarrekening laten opstellen",
+    "en": "Have your annual accounts prepared",
+    "tr": "Yıllık finansal tablolarınızı hazırlatın"
+  },
+
+  "subtitle": {
+    "nl": "Professioneel opgestelde jaarrekening inclusief toelichting en fiscaal advies.",
+    "en": "Professionally prepared annual financial statements including explanations and tax advice.",
+    "tr": "Açıklamalar ve vergi danışmanlığı dahil profesyonel yıllık finansal tablolar."
+  },
+
+  "description": {
+    "nl": "Wij stellen uw jaarrekening zorgvuldig op en zorgen dat deze voldoet aan alle wettelijke eisen.",
+    "en": "We prepare your annual accounts accurately and ensure they comply with all legal requirements.",
+    "tr": "Yıllık finansal tablolarınızı özenle hazırlar ve tüm yasal gerekliliklere uygun olmasını sağlarız."
+  },
+
+  "badgeTitle": {
+    "nl": "Volledig en compliant",
+    "en": "Complete and compliant",
+    "tr": "Eksiksiz ve mevzuata uygun"
+  },
+
+  "badgeSubtitle": {
+    "nl": "Inclusief toelichting en advies",
+    "en": "Including explanations and advice",
+    "tr": "Açıklamalar ve danışmanlık dahil"
+  },
+
+  "microTrust": {
+    "nl": "Heldere cijfers waarop u kunt vertrouwen.",
+    "en": "Reliable figures you can trust.",
+    "tr": "Güvenebileceğiniz net rakamlar."
+  },
+
+  "location": {
+    "nl": "Voor BV's, holdings en ondernemers in heel Nederland.",
+    "en": "For BVs, holding companies and entrepreneurs throughout the Netherlands.",
+    "tr": "Hollanda genelindeki BV'ler, holdingler ve girişimciler için."
+  },
+
+  "primaryCtaText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule a free consultation",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın"
+  },
+
+  "primaryCtaLink": "/contact",
+
+  "secondaryCtaText": {
+    "nl": "Bekijk tarieven",
+    "en": "View pricing",
+    "tr": "Fiyatları görüntüle"
+  },
+
+  "secondaryCtaLink": "/pakketten",
+
+  "trustItems": [
+    {
+      "label": {
+        "nl": "Voldoet aan alle wettelijke eisen",
+        "en": "Compliant with all legal requirements",
+        "tr": "Tüm yasal gerekliliklere uygundur"
+      }
+    },
+    {
+      "label": {
+        "nl": "Inclusief toelichting",
+        "en": "Includes explanations",
+        "tr": "Açıklamalar dahildir"
+      }
+    },
+    {
+      "label": {
+        "nl": "Fiscaal advies",
+        "en": "Tax advice",
+        "tr": "Vergi danışmanlığı"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    }
+  ],
+
+  "stats": [
+    {
+      "value": "500+",
+      "label": {
+        "nl": "Jaarrekeningen opgesteld",
+        "en": "Annual accounts prepared",
+        "tr": "Hazırlanan yıllık tablolar"
+      },
+      "icon": "FileSpreadsheet"
+    },
+    {
+      "value": "24u",
+      "label": {
+        "nl": "Reactietijd",
+        "en": "Response time",
+        "tr": "Yanıt süresi"
+      },
+      "icon": "Clock"
+    },
+    {
+      "value": "Vanaf €350",
+      "label": {
+        "nl": "Per jaarrekening",
+        "en": "Per annual statement",
+        "tr": "Yıllık tablo başına"
+      },
+      "icon": "Euro"
+    }
+  ],
+
+  "testimonial": {
+    "quote": {
+      "nl": "Unit AA stelde onze jaarrekening snel en professioneel op en gaf direct nuttig fiscaal advies.",
+      "en": "Unit AA prepared our annual accounts quickly and professionally and provided valuable tax advice.",
+      "tr": "Unit AA yıllık finansal tablolarımızı hızlı ve profesyonel şekilde hazırladı ve faydalı vergi tavsiyeleri verdi."
+    },
+    "author": "Hakan Çelik",
+    "company": "Holding BV"
+  },
+
+  "shortDesc": {
+    "nl": "Professionele jaarrekening inclusief toelichting en fiscaal advies.",
+    "en": "Professional annual accounts including explanations and tax advice.",
+    "tr": "Açıklamalar ve vergi danışmanlığı dahil profesyonel yıllık finansal tablolar."
+  },
+
+  "longDesc": {
+    "nl": [
+      {
+        "_type": "block",
+        "_key": "longdesc-nl-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-nl-1a",
+            "text": "Een correcte jaarrekening is essentieel voor inzicht, fiscale optimalisatie en wettelijke compliance. Wij stellen uw jaarrekening op en bespreken de belangrijkste cijfers en aandachtspunten."
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "_type": "block",
+        "_key": "longdesc-en-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-en-1a",
+            "text": "Accurate annual financial statements are essential for insight, tax optimization and legal compliance. We prepare your annual accounts and explain the key figures and opportunities."
+          }
+        ]
+      }
+    ],
+    "tr": [
+      {
+        "_type": "block",
+        "_key": "longdesc-tr-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-tr-1a",
+            "text": "Doğru hazırlanmış yıllık finansal tablolar; finansal içgörü, vergi optimizasyonu ve yasal uyum için kritik öneme sahiptir. Raporları hazırlayıp önemli noktaları sizinle paylaşırız."
+          }
+        ]
+      }
+    ]
+  },
+
+  "introTrustItems": [
+    {
+      "label": {
+        "nl": "Professioneel opgesteld",
+        "en": "Professionally prepared",
+        "tr": "Profesyonelce hazırlanır"
+      }
+    },
+    {
+      "label": {
+        "nl": "Wettelijk compliant",
+        "en": "Legally compliant",
+        "tr": "Yasal uyumlu"
+      }
+    },
+    {
+      "label": {
+        "nl": "Fiscaal advies inbegrepen",
+        "en": "Tax advice included",
+        "tr": "Vergi danışmanlığı dahildir"
+      }
+    },
+    {
+      "label": {
+        "nl": "Duidelijke toelichting",
+        "en": "Clear explanations",
+        "tr": "Net açıklamalar"
+      }
+    }
+  ],
+
+  "pricing": {
+    "startingPrice": "350",
+    "priceSuffix": {
+      "nl": "per jaarrekening",
+      "en": "per annual statement",
+      "tr": "yıllık tablo başına"
+    },
+    "priceNote": {
+      "nl": "Afhankelijk van de complexiteit van uw administratie.",
+      "en": "Depending on the complexity of your bookkeeping.",
+      "tr": "Muhasebenizin karmaşıklığına bağlıdır."
+    }
+  },
+
+  "ctaText": {
+    "nl": "Meer informatie",
+    "en": "More information",
+    "tr": "Daha fazla bilgi"
+  },
+
+  "includedEyebrow": {
+    "nl": "Wat is inbegrepen",
+    "en": "What is included",
+    "tr": "Neler dahil"
+  },
+
+  "includedTitle": {
+    "nl": "Alles wat nodig is voor een complete jaarrekening.",
+    "en": "Everything you need for complete annual accounts.",
+    "tr": "Eksiksiz yıllık finansal tablolar için gereken her şey."
+  },
+
+  "includedSubtitle": {
+    "nl": "Van balans en winst-en-verliesrekening tot toelichting en advies.",
+    "en": "From balance sheet and profit and loss statement to explanations and advice.",
+    "tr": "Bilanço ve gelir tablosundan açıklamalara ve danışmanlığa kadar."
+  },
+
+  "includedItems": [
+    {
+      "title": {
+        "nl": "Balans",
+        "en": "Balance sheet",
+        "tr": "Bilanço"
+      },
+      "description": {
+        "nl": "Volledig overzicht van activa, passiva en eigen vermogen.",
+        "en": "Complete overview of assets, liabilities and equity.",
+        "tr": "Varlıklar, borçlar ve özkaynakların tam görünümü."
+      },
+      "icon": "Scale"
+    },
+    {
+      "title": {
+        "nl": "Winst- en verliesrekening",
+        "en": "Profit and loss statement",
+        "tr": "Gelir tablosu"
+      },
+      "description": {
+        "nl": "Inzicht in omzet, kosten en resultaat.",
+        "en": "Insight into revenue, costs and results.",
+        "tr": "Ciro, giderler ve sonuçların analizi."
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "title": {
+        "nl": "Toelichting",
+        "en": "Notes and explanations",
+        "tr": "Dipnotlar ve açıklamalar"
+      },
+      "description": {
+        "nl": "Duidelijke toelichting op de belangrijkste posten.",
+        "en": "Clear explanation of key figures.",
+        "tr": "Önemli kalemlerin net açıklamaları."
+      },
+      "icon": "FileText"
+    },
+    {
+      "title": {
+        "nl": "Publicatiestukken",
+        "en": "Publication documents",
+        "tr": "Yayın belgeleri"
+      },
+      "description": {
+        "nl": "Opmaak van stukken voor de KvK indien nodig.",
+        "en": "Preparation of documents for Chamber of Commerce filing.",
+        "tr": "Gerekirse Ticaret Odası için belgelerin hazırlanması."
+      },
+      "icon": "Building2"
+    },
+    {
+      "title": {
+        "nl": "Fiscaal advies",
+        "en": "Tax advice",
+        "tr": "Vergi danışmanlığı"
+      },
+      "description": {
+        "nl": "Praktische aanbevelingen om belasting te optimaliseren.",
+        "en": "Practical recommendations to optimize taxes.",
+        "tr": "Vergi optimizasyonu için pratik öneriler."
+      },
+      "icon": "Shield"
+    },
+    {
+      "title": {
+        "nl": "Persoonlijke bespreking",
+        "en": "Personal review",
+        "tr": "Kişisel değerlendirme"
+      },
+      "description": {
+        "nl": "Wij bespreken de belangrijkste inzichten en aandachtspunten.",
+        "en": "We review key insights and action points with you.",
+        "tr": "Önemli bulguları ve dikkat edilmesi gereken noktaları birlikte değerlendiririz."
+      },
+      "icon": "MessageCircle"
+    }
+  ],
+
+  "includedFootnote": {
+    "nl": "Inclusief toelichting, fiscale inzichten en persoonlijk advies.",
+    "en": "Including explanations, tax insights and personal advice.",
+    "tr": "Açıklamalar, vergi içgörüleri ve kişisel danışmanlık dahildir."
+  },
+
+  "benefitsEyebrow": {
+    "nl": "Waarom een professionele jaarrekening?",
+    "en": "Why professional annual accounts?",
+    "tr": "Neden profesyonel yıllık tablolar?"
+  },
+
+  "benefitsTitle": {
+    "nl": "Meer inzicht, minder risico.",
+    "en": "More insight, less risk.",
+    "tr": "Daha fazla içgörü, daha az risk."
+  },
+
+  "benefitsSubtitle": {
+    "nl": "Een goede jaarrekening biedt overzicht en fiscale kansen.",
+    "en": "Well-prepared annual accounts provide clarity and tax opportunities.",
+    "tr": "İyi hazırlanmış tablolar netlik ve vergi fırsatları sunar."
+  },
+
+  "benefits": [
+    {
+      "title": {
+        "nl": "Wettelijke zekerheid",
+        "en": "Legal certainty",
+        "tr": "Yasal güvence"
+      },
+      "description": {
+        "nl": "Voldoet aan alle relevante regels en verplichtingen.",
+        "en": "Compliant with all applicable regulations.",
+        "tr": "Tüm ilgili düzenlemelere uygundur."
+      },
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": {
+        "nl": "Fiscaal inzicht",
+        "en": "Tax insight",
+        "tr": "Vergi içgörüsü"
+      },
+      "description": {
+        "nl": "Ontdek kansen om belasting te optimaliseren.",
+        "en": "Identify opportunities to optimize your tax position.",
+        "tr": "Vergi pozisyonunuzu iyileştirecek fırsatları keşfedin."
+      },
+      "icon": "PiggyBank"
+    },
+    {
+      "title": {
+        "nl": "Betere beslissingen",
+        "en": "Better decisions",
+        "tr": "Daha iyi kararlar"
+      },
+      "description": {
+        "nl": "Gebruik uw cijfers als basis voor groei.",
+        "en": "Use your numbers as a foundation for growth.",
+        "tr": "Rakamlarınızı büyüme için kullanın."
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "title": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      },
+      "description": {
+        "nl": "Heldere uitleg en praktische aanbevelingen.",
+        "en": "Clear explanations and practical recommendations.",
+        "tr": "Net açıklamalar ve pratik öneriler."
+      },
+      "icon": "UserCheck"
+    }
+  ],
+
+  "processEyebrow": {
+    "nl": "Werkwijze",
+    "en": "How it works",
+    "tr": "Nasıl çalışır"
+  },
+
+  "processTitle": {
+    "nl": "Zo stellen wij uw jaarrekening op.",
+    "en": "How we prepare your annual accounts.",
+    "tr": "Yıllık finansal tablolarınızı nasıl hazırlıyoruz."
+  },
+
+  "processSubtitle": {
+    "nl": "Van controle van de administratie tot persoonlijke bespreking.",
+    "en": "From bookkeeping review to personal consultation.",
+    "tr": "Muhasebe kontrolünden kişisel değerlendirmeye kadar."
+  },
+
+  "process": [
+    {
+      "title": {
+        "nl": "Controle administratie",
+        "en": "Review bookkeeping",
+        "tr": "Muhasebe kontrolü"
+      },
+      "description": {
+        "nl": "Wij controleren de volledigheid en juistheid van uw administratie.",
+        "en": "We review the completeness and accuracy of your bookkeeping.",
+        "tr": "Muhasebenizin eksiksiz ve doğru olduğunu kontrol ederiz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Opstellen jaarrekening",
+        "en": "Prepare annual accounts",
+        "tr": "Yıllık tabloların hazırlanması"
+      },
+      "description": {
+        "nl": "Balans, winst-en-verliesrekening en toelichting worden opgesteld.",
+        "en": "We prepare the balance sheet, profit and loss statement and notes.",
+        "tr": "Bilanço, gelir tablosu ve dipnotlar hazırlanır."
+      }
+    },
+    {
+      "title": {
+        "nl": "Fiscaal advies",
+        "en": "Tax advice",
+        "tr": "Vergi danışmanlığı"
+      },
+      "description": {
+        "nl": "Wij signaleren fiscale optimalisatiemogelijkheden.",
+        "en": "We identify opportunities to optimize your tax position.",
+        "tr": "Vergi optimizasyon fırsatlarını belirleriz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Bespreking",
+        "en": "Review meeting",
+        "tr": "Değerlendirme"
+      },
+      "description": {
+        "nl": "We bespreken de uitkomsten en aanbevelingen.",
+        "en": "We discuss the results and recommendations.",
+        "tr": "Sonuçları ve önerileri birlikte değerlendiririz."
+      }
+    }
+  ],
+
+  "faqEyebrow": {
+    "nl": "Veelgestelde vragen",
+    "en": "Frequently asked questions",
+    "tr": "Sıkça sorulan sorular"
+  },
+
+  "faqTitle": {
+    "nl": "Heldere antwoorden",
+    "en": "Clear answers",
+    "tr": "Net yanıtlar"
+  },
+
+  "faqSubtitle": {
+    "nl": "Veelgestelde vragen over het opstellen van een jaarrekening.",
+    "en": "Common questions about annual financial statements.",
+    "tr": "Yıllık finansal tablolar hakkında sık sorulan sorular."
+  },
+
+  "faq": [
+    {
+      "question": {
+        "nl": "Wanneer is een jaarrekening verplicht?",
+        "en": "When are annual accounts required?",
+        "tr": "Yıllık finansal tablolar ne zaman zorunludur?"
+      },
+      "answer": {
+        "nl": [
+          {
+            "_type": "block",
+            "_key": "faq-nl-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-nl-1a",
+                "text": "Voor BV's is het opstellen van een jaarrekening wettelijk verplicht. Ook voor andere ondernemingsvormen biedt een jaarrekening waardevol inzicht."
+              }
+            ]
+          }
+        ],
+        "en": [
+          {
+            "_type": "block",
+            "_key": "faq-en-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-en-1a",
+                "text": "For Dutch BVs, annual accounts are legally required. For other business types, they still provide valuable insight."
+              }
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "_type": "block",
+            "_key": "faq-tr-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-tr-1a",
+                "text": "BV şirketleri için yıllık finansal tablolar yasal olarak zorunludur. Diğer işletmeler için de önemli içgörüler sağlar."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "ctaEyebrow": {
+    "nl": "Klaar voor een professionele jaarrekening?",
+    "en": "Ready for professional annual accounts?",
+    "tr": "Profesyonel yıllık finansal tablolar için hazır mısınız?"
+  },
+
+  "ctaTitle": {
+    "nl": "Heldere cijfers. Praktisch advies.",
+    "en": "Clear figures. Practical advice.",
+    "tr": "Net rakamlar. Pratik danışmanlık."
+  },
+
+  "ctaTitleAccent": {
+    "nl": "Plan een gratis kennismaking.",
+    "en": "Schedule a free consultation.",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın."
+  },
+
+  "ctaDescription": {
+    "nl": "Laat uw jaarrekening professioneel opstellen en ontdek direct fiscale kansen en verbeterpunten.",
+    "en": "Have your annual accounts professionally prepared and discover tax opportunities and improvement areas.",
+    "tr": "Yıllık finansal tablolarınızı profesyonelce hazırlatın ve vergi fırsatlarını keşfedin."
+  },
+
+  "ctaTrustItems": [
+    {
+      "label": {
+        "nl": "Wettelijk compliant",
+        "en": "Legally compliant",
+        "tr": "Yasal uyumlu"
+      }
+    },
+    {
+      "label": {
+        "nl": "Fiscaal advies",
+        "en": "Tax advice",
+        "tr": "Vergi danışmanlığı"
+      }
+    },
+    {
+      "label": {
+        "nl": "Gratis kennismaking",
+        "en": "Free consultation",
+        "tr": "Ücretsiz tanışma"
+      }
+    }
+  ],
+
+  "ctaPrimaryText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule free consultation",
+    "tr": "Ücretsiz tanışma planlayın"
+  },
+
+  "ctaPrimaryLink": "/contact",
+
+  "ctaSecondaryText": {
+    "nl": "WhatsApp ons",
+    "en": "WhatsApp us",
+    "tr": "WhatsApp'tan yazın"
+  },
+
+  "ctaSecondaryLink": "https://wa.me/31612345678",
+
+  "seoTitle": {
+    "nl": "Jaarrekening laten opstellen | Vanaf €350 | Unit AA",
+    "en": "Annual Financial Statements | From €350 | Unit AA",
+    "tr": "Yıllık Finansal Tablolar | €350'den başlayan fiyatlarla | Unit AA"
+  },
+
+  "seoDescription": {
+    "nl": "Laat uw jaarrekening professioneel opstellen door Unit AA. Inclusief balans, winst-en-verliesrekening, toelichting en fiscaal advies vanaf €350.",
+    "en": "Have your annual financial statements prepared by Unit AA. Includes balance sheet, profit and loss statement, notes and tax advice from €350.",
+    "tr": "Yıllık finansal tablolarınızı Unit AA'ya hazırlatın. Bilanço, gelir tablosu, dipnotlar ve vergi danışmanlığı €350'den başlayan fiyatlarla."
+  }
+}

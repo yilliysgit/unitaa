@@ -1,0 +1,105 @@
+{
+  "_type": "contactPage",
+  "_id": "contactPage",
+  "heroEyebrow": {
+    "nl": "Neem contact op",
+    "en": "Get in touch",
+    "tr": "İletişime geçin"
+  },
+  "heroTitle": {
+    "nl": "Laten we kennismaken",
+    "en": "Let's get acquainted",
+    "tr": "Tanışalım"
+  },
+  "heroSubtitle": {
+    "nl": "Geen verplichtingen. We bespreken uw administratie, geven vrijblijvend advies en bepalen samen wat u nodig heeft.",
+    "en": "No obligations. We discuss your administration, give free advice and determine together what you need.",
+    "tr": "Yükümlülük yok. Muhasebenizi tartışır, ücretsiz tavsiye verir ve birlikte neye ihtiyacınız olduğunu belirleriz."
+  },
+  "contactOpties": [
+    {
+      "icon": "Phone",
+      "title": { "nl": "Bellen", "en": "Call", "tr": "Ara" },
+      "value": "06-15523864",
+      "subtext": { "nl": "Ma - Vrij, 09:00 - 17:00", "en": "Mon - Fri, 09:00 - 17:00", "tr": "Pzt - Cum, 09:00 - 17:00" },
+      "href": "tel:0615523864",
+      "action": { "nl": "Bel nu →", "en": "Call now →", "tr": "Şimdi ara →" }
+    },
+    {
+      "icon": "MessageCircle",
+      "title": { "nl": "WhatsApp", "en": "WhatsApp", "tr": "WhatsApp" },
+      "value": "06-15523864",
+      "subtext": { "nl": "Reactie binnen 24 uur", "en": "Response within 24 hours", "tr": "24 saat içinde yanıt" },
+      "href": "https://wa.me/31615523864",
+      "action": { "nl": "Stuur bericht →", "en": "Send message →", "tr": "Mesaj gönder →" }
+    },
+    {
+      "icon": "Mail",
+      "title": { "nl": "E-mail", "en": "Email", "tr": "E-posta" },
+      "value": "info@unitaa.nl",
+      "subtext": { "nl": "Reactie binnen 24 uur", "en": "Response within 24 hours", "tr": "24 saat içinde yanıt" },
+      "href": "mailto:info@unitaa.nl",
+      "action": { "nl": "Mail direct →", "en": "Email now →", "tr": "Hemen yaz →" }
+    }
+  ],
+  "bedrijfsnaam": "Unit AA",
+  "straat": "Jarmuiden 27F",
+  "postcode": "1046 AC Amsterdam",
+  "routeLink": "https://maps.google.com/?q=Jarmuiden+27F+1046+AC+Amsterdam",
+  "routeLinkText": { "nl": "Route plannen →", "en": "Get directions →", "tr": "Yol tarifi al →" },
+  "openingstijden": [
+    { "regel": { "nl": "Maandag - Vrijdag: 09:00 - 17:00", "en": "Monday - Friday: 09:00 - 17:00", "tr": "Pazartesi - Cuma: 09:00 - 17:00" } },
+    { "regel": { "nl": "Zaterdag - Zondag: Gesloten", "en": "Saturday - Sunday: Closed", "tr": "Cumartesi - Pazar: Kapalı" } }
+  ],
+  "openingstijdenNote": {
+    "nl": "Op afspraak ook buiten kantooruren mogelijk.",
+    "en": "Appointments outside office hours are also possible.",
+    "tr": "Mesai saatleri dışında da randevu alınabilir."
+  },
+  "formTitle": { "nl": "Stuur een bericht", "en": "Send a message", "tr": "Mesaj gönderin" },
+  "formSubtitle": { "nl": "We nemen binnen 24 uur contact met u op. Geen spam, alleen een reactie.", "en": "We will contact you within 24 hours. No spam, just a response.", "tr": "24 saat içinde sizinle iletişime geçeceğiz. Spam yok, sadece bir yanıt." },
+  "formLabelNaam": { "nl": "Naam *", "en": "Name *", "tr": "Ad *" },
+  "formPlaceholderNaam": { "nl": "Jan de Vries", "en": "John Smith", "tr": "Ahmet Yılmaz" },
+  "formLabelEmail": { "nl": "E-mailadres *", "en": "Email address *", "tr": "E-posta adresi *" },
+  "formPlaceholderEmail": { "nl": "jan@bedrijf.nl", "en": "john@company.com", "tr": "ahmet@sirket.com" },
+  "formLabelTelefoon": { "nl": "Telefoonnummer (optioneel)", "en": "Phone number (optional)", "tr": "Telefon numarası (isteğe bağlı)" },
+  "formPlaceholderTelefoon": { "nl": "06-12345678", "en": "+31 6 12345678", "tr": "+31 6 12345678" },
+  "formLabelBericht": { "nl": "Bericht", "en": "Message", "tr": "Mesaj" },
+  "formPlaceholderBericht": { "nl": "Wat kunnen we voor u doen?", "en": "How can we help you?", "tr": "Size nasıl yardımcı olabiliriz?" },
+  "formButtonText": { "nl": "Verstuur bericht", "en": "Send message", "tr": "Mesajı gönder" },
+  "formDisclaimer": { "nl": "Door te verzenden gaat u akkoord met onze", "en": "By submitting you agree to our", "tr": "Göndererek bizim" },
+  "formDisclaimerLink": { "nl": "algemene voorwaarden", "en": "terms and conditions", "tr": "genel şartlarımızı" },
+  "formDisclaimerHref": "/algemene-voorwaarden",
+  "formSuccessTitle": { "nl": "Bedankt voor uw bericht!", "en": "Thank you for your message!", "tr": "Mesajınız için teşekkürler!" },
+  "formSuccessText": { "nl": "We hebben uw aanvraag ontvangen en nemen binnen 24 uur contact met u op.", "en": "We have received your request and will contact you within 24 hours.", "tr": "Talebinizi aldık ve 24 saat içinde sizinle iletişime geçeceğiz." },
+  "formSuccessButton": { "nl": "Terug naar homepage", "en": "Back to homepage", "tr": "Ana sayfaya dön" },
+  "trustTitle": { "nl": "Waarom ondernemers voor ons kiezen", "en": "Why entrepreneurs choose us", "tr": "Girişimciler neden bizi seçiyor" },
+  "trustItems": [
+    {
+      "icon": "Clock",
+      "label": { "nl": "24u reactietijd", "en": "24h response time", "tr": "24 saat yanıt süresi" },
+      "description": { "nl": "Ook in drukke periodes", "en": "Even during busy periods", "tr": "Yoğun dönemlerde bile" }
+    },
+    {
+      "icon": "ShieldCheck",
+      "label": { "nl": "Geen verrassingen", "en": "No surprises", "tr": "Sürpriz yok" },
+      "description": { "nl": "Vaste tarieven", "en": "Fixed rates", "tr": "Sabit ücretler" }
+    },
+    {
+      "icon": "Users",
+      "label": { "nl": "500+ klanten", "en": "500+ clients", "tr": "500+ müşteri" },
+      "description": { "nl": "Nederland breed", "en": "Across the Netherlands", "tr": "Hollanda genelinde" }
+    },
+    {
+      "icon": "Sparkles",
+      "label": { "nl": "Gratis kennismaking", "en": "Free consultation", "tr": "Ücretsiz tanışma" },
+      "description": { "nl": "30 min, vrijblijvend", "en": "30 min, no obligation", "tr": "30 dk, yükümlülük yok" }
+    }
+  ],
+  "kvk": "63764741",
+  "btw": "NL002257703B15",
+  "becon": "658133",
+  "emailOntvanger": "info@unitaa.nl",
+  "seoTitle": { "nl": "Contact | Unit AA", "en": "Contact | Unit AA", "tr": "İletişim | Unit AA" },
+  "seoDescription": { "nl": "Neem contact op met Unit AA. Plan een gratis kennismaking of stuur een bericht.", "en": "Contact Unit AA. Schedule a free consultation or send a message.", "tr": "Unit AA ile iletişime geçin. Ücretsiz tanışma planlayın veya mesaj gönderin." }
+}

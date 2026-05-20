@@ -1,0 +1,647 @@
+{
+  "_type": "dienst",
+  "title": {
+    "nl": "Boekhouding & Rapportage",
+    "en": "Bookkeeping & Reporting",
+    "tr": "Muhasebe ve Raporlama"
+  },
+  "shortTitle": {
+    "nl": "Boekhouding",
+    "en": "Bookkeeping",
+    "tr": "Muhasebe"
+  },
+  "slug": {
+    "nl": { "current": "boekhouding-rapportage" },
+    "en": { "current": "bookkeeping-reporting" },
+    "tr": { "current": "muhasebe-ve-raporlama" }
+  },
+  "icon": "BarChart2",
+  "order": 3,
+  "showOnHome": true,
+
+  "eyebrow": {
+    "nl": "Actuele cijfers en heldere rapportages",
+    "en": "Up-to-date figures and clear reports",
+    "tr": "Güncel rakamlar ve net raporlar"
+  },
+
+  "subtitle": {
+    "nl": "Volledige boekhouding met inzichtelijke rapportages en persoonlijk advies.",
+    "en": "Complete bookkeeping with clear financial reports and personal advice.",
+    "tr": "Açık finansal raporlar ve kişisel danışmanlık ile eksiksiz muhasebe hizmeti."
+  },
+
+  "description": {
+    "nl": "Wij verzorgen uw boekhouding en leveren duidelijke rapportages waarmee u betere financiële beslissingen neemt.",
+    "en": "We manage your bookkeeping and provide clear reports to help you make better financial decisions.",
+    "tr": "Muhasebenizi yönetiyor ve daha iyi finansal kararlar almanız için anlaşılır raporlar sunuyoruz."
+  },
+
+  "badgeTitle": {
+    "nl": "Inzicht in uw cijfers",
+    "en": "Insight into your numbers",
+    "tr": "Rakamlarınıza tam hakimiyet"
+  },
+
+  "badgeSubtitle": {
+    "nl": "Altijd actueel en overzichtelijk",
+    "en": "Always current and easy to understand",
+    "tr": "Her zaman güncel ve anlaşılır"
+  },
+
+  "microTrust": {
+    "nl": "Heldere rapportages zonder ingewikkelde vaktaal.",
+    "en": "Clear reports without complicated jargon.",
+    "tr": "Karmaşık terimler olmadan net raporlar."
+  },
+
+  "location": {
+    "nl": "Voor ondernemers in Amsterdam en heel Nederland.",
+    "en": "For entrepreneurs throughout the Netherlands.",
+    "tr": "Amsterdam ve tüm Hollanda'daki girişimciler için."
+  },
+
+  "primaryCtaText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule a free consultation",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın"
+  },
+
+  "primaryCtaLink": "/contact",
+
+  "secondaryCtaText": {
+    "nl": "Bekijk tarieven",
+    "en": "View pricing",
+    "tr": "Fiyatları görüntüle"
+  },
+
+  "secondaryCtaLink": "/pakketten",
+
+  "trustItems": [
+    {
+      "label": {
+        "nl": "Maandelijkse rapportages",
+        "en": "Monthly reports",
+        "tr": "Aylık raporlar"
+      }
+    },
+    {
+      "label": {
+        "nl": "Actuele cijfers",
+        "en": "Up-to-date figures",
+        "tr": "Güncel rakamlar"
+      }
+    },
+    {
+      "label": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Reactie binnen 24 uur",
+        "en": "Response within 24 hours",
+        "tr": "24 saat içinde yanıt"
+      }
+    }
+  ],
+
+  "stats": [
+    {
+      "value": "500+",
+      "label": {
+        "nl": "Ondernemers geholpen",
+        "en": "Entrepreneurs helped",
+        "tr": "Desteklenen girişimciler"
+      },
+      "icon": "Users"
+    },
+    {
+      "value": "12+",
+      "label": {
+        "nl": "Jaar ervaring",
+        "en": "Years of experience",
+        "tr": "Yıllık deneyim"
+      },
+      "icon": "Award"
+    },
+    {
+      "value": "24u",
+      "label": {
+        "nl": "Reactietijd",
+        "en": "Response time",
+        "tr": "Yanıt süresi"
+      },
+      "icon": "Clock"
+    }
+  ],
+
+  "testimonial": {
+    "quote": {
+      "nl": "Dankzij de duidelijke rapportages van Unit AA weet ik precies hoe mijn bedrijf ervoor staat.",
+      "en": "Thanks to Unit AA’s clear reports, I always know exactly how my business is performing.",
+      "tr": "Unit AA'nın net raporları sayesinde şirketimin durumunu her zaman biliyorum."
+    },
+    "author": "Murat Kaya",
+    "company": "E-commerce ondernemer"
+  },
+
+  "shortDesc": {
+    "nl": "Boekhouding en rapportages die u écht helpen ondernemen.",
+    "en": "Bookkeeping and reporting that truly support your business.",
+    "tr": "İşinizi büyütmenize yardımcı olan muhasebe ve raporlama."
+  },
+
+  "longDesc": {
+    "nl": [
+      {
+        "_type": "block",
+        "_key": "longdesc-nl-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-nl-1a",
+            "text": "Een goede boekhouding is meer dan alleen cijfers verwerken. Met onze rapportages krijgt u inzicht in omzet, kosten, winst en cashflow, zodat u betere beslissingen kunt nemen."
+          }
+        ]
+      }
+    ],
+    "en": [
+      {
+        "_type": "block",
+        "_key": "longdesc-en-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-en-1a",
+            "text": "Great bookkeeping is more than recording numbers. Our reports provide insight into revenue, costs, profit and cash flow so you can make better business decisions."
+          }
+        ]
+      }
+    ],
+    "tr": [
+      {
+        "_type": "block",
+        "_key": "longdesc-tr-1",
+        "style": "normal",
+        "children": [
+          {
+            "_type": "span",
+            "_key": "longdesc-tr-1a",
+            "text": "İyi bir muhasebe sadece rakam işlemekten ibaret değildir. Raporlarımız sayesinde ciro, gider, kâr ve nakit akışınızı net bir şekilde görürsünüz."
+          }
+        ]
+      }
+    ]
+  },
+
+  "introTrustItems": [
+    {
+      "label": {
+        "nl": "Actuele cijfers",
+        "en": "Up-to-date figures",
+        "tr": "Güncel rakamlar"
+      }
+    },
+    {
+      "label": {
+        "nl": "Duidelijke rapportages",
+        "en": "Clear reporting",
+        "tr": "Net raporlar"
+      }
+    },
+    {
+      "label": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Inzicht in cashflow",
+        "en": "Cash flow insight",
+        "tr": "Nakit akışı analizi"
+      }
+    }
+  ],
+
+  "pricing": {
+    "startingPrice": "100",
+    "priceSuffix": {
+      "nl": "per maand",
+      "en": "per month",
+      "tr": "aylık"
+    },
+    "priceNote": {
+      "nl": "Exclusief btw.",
+      "en": "Excluding VAT.",
+      "tr": "KDV hariç."
+    }
+  },
+
+  "ctaText": {
+    "nl": "Meer informatie",
+    "en": "More information",
+    "tr": "Daha fazla bilgi"
+  },
+
+  "includedEyebrow": {
+    "nl": "Wat is inbegrepen",
+    "en": "What is included",
+    "tr": "Neler dahil"
+  },
+
+  "includedTitle": {
+    "nl": "Alles wat u nodig heeft voor inzicht en controle.",
+    "en": "Everything you need for insight and control.",
+    "tr": "Kontrol ve içgörü için ihtiyacınız olan her şey."
+  },
+
+  "includedSubtitle": {
+    "nl": "Volledige boekhouding met heldere financiële rapportages.",
+    "en": "Complete bookkeeping with clear financial reports.",
+    "tr": "Açık finansal raporlarla eksiksiz muhasebe."
+  },
+
+  "includedItems": [
+    {
+      "title": {
+        "nl": "Verwerking boekhouding",
+        "en": "Bookkeeping processing",
+        "tr": "Muhasebe işleme"
+      },
+      "description": {
+        "nl": "Alle transacties worden nauwkeurig verwerkt.",
+        "en": "All transactions are accurately recorded.",
+        "tr": "Tüm işlemler doğru şekilde kaydedilir."
+      },
+      "icon": "Receipt"
+    },
+    {
+      "title": {
+        "nl": "Winst- en verliesrekening",
+        "en": "Profit and loss statement",
+        "tr": "Kâr-zarar tablosu"
+      },
+      "description": {
+        "nl": "Inzicht in omzet, kosten en winst.",
+        "en": "Insight into revenue, costs and profit.",
+        "tr": "Ciro, gider ve kâr analizi."
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "title": {
+        "nl": "Balansrapportage",
+        "en": "Balance sheet reporting",
+        "tr": "Bilanço raporu"
+      },
+      "description": {
+        "nl": "Altijd inzicht in activa en passiva.",
+        "en": "Always insight into assets and liabilities.",
+        "tr": "Varlık ve yükümlülüklerinize dair net görünüm."
+      },
+      "icon": "Scale"
+    },
+    {
+      "title": {
+        "nl": "Cashflow-overzicht",
+        "en": "Cash flow overview",
+        "tr": "Nakit akışı özeti"
+      },
+      "description": {
+        "nl": "Inzicht in uw liquiditeit.",
+        "en": "Insight into your liquidity.",
+        "tr": "Likidite durumunuzu gösterir."
+      },
+      "icon": "Wallet"
+    },
+    {
+      "title": {
+        "nl": "Maandelijkse rapportages",
+        "en": "Monthly reports",
+        "tr": "Aylık raporlar"
+      },
+      "description": {
+        "nl": "Duidelijke rapportages zonder vakjargon.",
+        "en": "Clear reports without technical jargon.",
+        "tr": "Karmaşık terimler olmadan anlaşılır raporlar."
+      },
+      "icon": "FileBarChart"
+    },
+    {
+      "title": {
+        "nl": "Persoonlijke toelichting",
+        "en": "Personal explanation",
+        "tr": "Kişisel açıklama"
+      },
+      "description": {
+        "nl": "Wij leggen uit wat de cijfers betekenen.",
+        "en": "We explain what the numbers mean.",
+        "tr": "Rakamların ne anlama geldiğini açıklarız."
+      },
+      "icon": "MessageCircle"
+    }
+  ],
+
+  "includedFootnote": {
+    "nl": "Inclusief rapportages, toelichting en proactief advies.",
+    "en": "Including reports, explanations and proactive advice.",
+    "tr": "Raporlar, açıklamalar ve proaktif danışmanlık dahildir."
+  },
+
+  "benefitsEyebrow": {
+    "nl": "Waarom rapportage belangrijk is",
+    "en": "Why reporting matters",
+    "tr": "Raporlama neden önemlidir"
+  },
+
+  "benefitsTitle": {
+    "nl": "Betere beslissingen op basis van actuele cijfers.",
+    "en": "Make better decisions with current figures.",
+    "tr": "Güncel rakamlarla daha iyi kararlar alın."
+  },
+
+  "benefitsSubtitle": {
+    "nl": "Inzicht in uw cijfers geeft rust en controle.",
+    "en": "Financial insight gives peace of mind and control.",
+    "tr": "Finansal içgörü size güven ve kontrol sağlar."
+  },
+
+  "benefits": [
+    {
+      "title": {
+        "nl": "Meer inzicht",
+        "en": "More insight",
+        "tr": "Daha fazla içgörü"
+      },
+      "description": {
+        "nl": "U weet precies hoe uw bedrijf presteert.",
+        "en": "You know exactly how your business is performing.",
+        "tr": "Şirketinizin performansını net şekilde görürsünüz."
+      },
+      "icon": "Eye"
+    },
+    {
+      "title": {
+        "nl": "Sneller sturen",
+        "en": "Faster decisions",
+        "tr": "Daha hızlı kararlar"
+      },
+      "description": {
+        "nl": "U kunt sneller bijsturen op basis van cijfers.",
+        "en": "Adjust faster based on financial data.",
+        "tr": "Rakamlara göre hızlı aksiyon alabilirsiniz."
+      },
+      "icon": "Gauge"
+    },
+    {
+      "title": {
+        "nl": "Meer winst",
+        "en": "Higher profits",
+        "tr": "Daha yüksek kâr"
+      },
+      "description": {
+        "nl": "Ontdek kansen om rendement te verbeteren.",
+        "en": "Identify opportunities to improve profitability.",
+        "tr": "Kârlılığı artıracak fırsatları keşfedin."
+      },
+      "icon": "PiggyBank"
+    },
+    {
+      "title": {
+        "nl": "Meer rust",
+        "en": "Peace of mind",
+        "tr": "Daha fazla huzur"
+      },
+      "description": {
+        "nl": "Altijd inzicht in uw financiële positie.",
+        "en": "Always know where your business stands.",
+        "tr": "Finansal durumunuzu her zaman bilin."
+      },
+      "icon": "ShieldCheck"
+    }
+  ],
+
+  "processEyebrow": {
+    "nl": "Werkwijze",
+    "en": "How it works",
+    "tr": "Nasıl çalışır"
+  },
+
+  "processTitle": {
+    "nl": "Zo houden wij uw cijfers actueel.",
+    "en": "How we keep your figures up to date.",
+    "tr": "Rakamlarınızı nasıl güncel tutuyoruz."
+  },
+
+  "processSubtitle": {
+    "nl": "Van verwerking tot rapportage en advies.",
+    "en": "From processing to reporting and advice.",
+    "tr": "İşlemeden raporlama ve danışmanlığa kadar."
+  },
+
+  "process": [
+    {
+      "title": {
+        "nl": "Aanleveren documenten",
+        "en": "Submit documents",
+        "tr": "Belge teslimi"
+      },
+      "description": {
+        "nl": "U stuurt facturen en documenten digitaal aan.",
+        "en": "Send invoices and documents digitally.",
+        "tr": "Fatura ve belgelerinizi dijital olarak gönderirsiniz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Verwerking",
+        "en": "Processing",
+        "tr": "İşleme"
+      },
+      "description": {
+        "nl": "Wij verwerken uw administratie zorgvuldig.",
+        "en": "We process your bookkeeping accurately.",
+        "tr": "Muhasebenizi dikkatle işleriz."
+      }
+    },
+    {
+      "title": {
+        "nl": "Rapportage",
+        "en": "Reporting",
+        "tr": "Raporlama"
+      },
+      "description": {
+        "nl": "U ontvangt heldere financiële rapportages.",
+        "en": "You receive clear financial reports.",
+        "tr": "Size net finansal raporlar sunarız."
+      }
+    },
+    {
+      "title": {
+        "nl": "Advies",
+        "en": "Advice",
+        "tr": "Danışmanlık"
+      },
+      "description": {
+        "nl": "Wij bespreken kansen en aandachtspunten.",
+        "en": "We discuss opportunities and key focus points.",
+        "tr": "Fırsatları ve dikkat edilmesi gereken noktaları değerlendiririz."
+      }
+    }
+  ],
+
+  "faqEyebrow": {
+    "nl": "Veelgestelde vragen",
+    "en": "Frequently asked questions",
+    "tr": "Sıkça sorulan sorular"
+  },
+
+  "faqTitle": {
+    "nl": "Heldere antwoorden",
+    "en": "Clear answers",
+    "tr": "Net yanıtlar"
+  },
+
+  "faqSubtitle": {
+    "nl": "Veelgestelde vragen over boekhouding en rapportage.",
+    "en": "Common questions about bookkeeping and reporting.",
+    "tr": "Muhasebe ve raporlama hakkında sık sorulan sorular."
+  },
+
+  "faq": [
+    {
+      "question": {
+        "nl": "Hoe vaak ontvang ik rapportages?",
+        "en": "How often will I receive reports?",
+        "tr": "Raporları ne sıklıkla alırım?"
+      },
+      "answer": {
+        "nl": [
+          {
+            "_type": "block",
+            "_key": "faq-nl-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-nl-1a",
+                "text": "Afhankelijk van uw wensen ontvangt u maandelijkse, kwartaal- of maatwerkrapportages."
+              }
+            ]
+          }
+        ],
+        "en": [
+          {
+            "_type": "block",
+            "_key": "faq-en-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-en-1a",
+                "text": "Depending on your needs, you can receive monthly, quarterly or customized reports."
+              }
+            ]
+          }
+        ],
+        "tr": [
+          {
+            "_type": "block",
+            "_key": "faq-tr-1",
+            "style": "normal",
+            "children": [
+              {
+                "_type": "span",
+                "_key": "faq-tr-1a",
+                "text": "İhtiyacınıza göre aylık, üç aylık veya özel raporlar sunuyoruz."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+
+  "ctaEyebrow": {
+    "nl": "Klaar voor inzicht in uw cijfers?",
+    "en": "Ready for insight into your numbers?",
+    "tr": "Rakamlarınıza hakim olmaya hazır mısınız?"
+  },
+
+  "ctaTitle": {
+    "nl": "Betere beslissingen beginnen met duidelijke rapportages.",
+    "en": "Better decisions start with clear reports.",
+    "tr": "Daha iyi kararlar net raporlarla başlar."
+  },
+
+  "ctaTitleAccent": {
+    "nl": "Plan een gratis kennismaking.",
+    "en": "Schedule a free consultation.",
+    "tr": "Ücretsiz tanışma görüşmesi planlayın."
+  },
+
+  "ctaDescription": {
+    "nl": "Ontdek hoe actuele cijfers en duidelijke rapportages u helpen om slimmer te ondernemen.",
+    "en": "Discover how up-to-date figures and clear reports help you run your business smarter.",
+    "tr": "Güncel rakamlar ve net raporlarla işinizi daha akıllıca yönetin."
+  },
+
+  "ctaTrustItems": [
+    {
+      "label": {
+        "nl": "Maandelijkse rapportages",
+        "en": "Monthly reports",
+        "tr": "Aylık raporlar"
+      }
+    },
+    {
+      "label": {
+        "nl": "Persoonlijk advies",
+        "en": "Personal advice",
+        "tr": "Kişisel danışmanlık"
+      }
+    },
+    {
+      "label": {
+        "nl": "Gratis kennismaking",
+        "en": "Free consultation",
+        "tr": "Ücretsiz tanışma"
+      }
+    }
+  ],
+
+  "ctaPrimaryText": {
+    "nl": "Plan gratis kennismaking",
+    "en": "Schedule free consultation",
+    "tr": "Ücretsiz tanışma planlayın"
+  },
+
+  "ctaPrimaryLink": "/contact",
+
+  "ctaSecondaryText": {
+    "nl": "WhatsApp ons",
+    "en": "WhatsApp us",
+    "tr": "WhatsApp'tan yazın"
+  },
+
+  "ctaSecondaryLink": "https://wa.me/31612345678",
+
+  "seoTitle": {
+    "nl": "Boekhouding & Rapportage | Altijd inzicht in uw cijfers | Unit AA",
+    "en": "Bookkeeping & Reporting | Full insight into your numbers | Unit AA",
+    "tr": "Muhasebe ve Raporlama | Rakamlarınıza tam hakimiyet | Unit AA"
+  },
+
+  "seoDescription": {
+    "nl": "Volledige boekhouding en heldere financiële rapportages. Krijg inzicht in omzet, kosten, winst en cashflow met persoonlijk advies van Unit AA.",
+    "en": "Complete bookkeeping and clear financial reporting. Gain insight into revenue, costs, profit and cash flow with personal advice from Unit AA.",
+    "tr": "Eksiksiz muhasebe ve anlaşılır finansal raporlar. Ciro, gider, kâr ve nakit akışınızı Unit AA ile net şekilde görün."
+  }
+}
