@@ -42,7 +42,7 @@ export default function Header({ navigation }: HeaderProps) {
   }, []);
 
   return (
-    <header className="fixed inset-x-0 top-0 z-50">
+<header className="fixed inset-x-0 top-0 z-[999]">
       {/* Main bar */}
       <div
         className={[
@@ -160,7 +160,7 @@ export default function Header({ navigation }: HeaderProps) {
             }}
             className="border-t border-white/6 bg-[#0b1630] lg:hidden"
           >
-            <div className="flex flex-col gap-1 px-[22px] pb-[22px] pt-[14px]">
+<div className="border-t border-white/6 bg-[#0b1630] lg:hidden z-[999] relative">
               {/* Navigation items */}
               {navigation.map((item) => (
                 <Link
