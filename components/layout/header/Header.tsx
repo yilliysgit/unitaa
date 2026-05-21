@@ -140,69 +140,45 @@ export default function Header({ navigation }: HeaderProps) {
       <div className="h-[2px] bg-gradient-to-r from-[#3db54a] to-[#3db54a]/8" />
 
       {/* Mobile menu */}
-      <AnimatePresence>
-        {mobileMenuOpen && (
-          <motion.div
-            initial={{ opacity: 0, y: -6 }}
-            animate={{ opacity: 1, y: 0 }}
-            exit={{ opacity: 0, y: -6 }}
-            transition={{
-              duration: 0.22,
-              ease: [0.4, 0, 0.2, 1],
-            }}
-            className="border-t border-white/6 bg-[#0b1630] lg:hidden"
-          >
-            <div className="flex flex-col gap-1 px-[22px] pb-[22px] pt-[14px]">
-              {/* Navigation items */}
-              {navigation.map((item) => (
-                <Link
-                  key={item.id}
-                  href={item.href}
-                  onClick={() =>
-                    setMobileMenuOpen(false)
-                  }
-                  className="flex items-center justify-between rounded-[10px] border border-transparent px-[13px] py-[11px] text-[14px] font-medium text-white/60 transition-all hover:border-white/7 hover:bg-white/6 hover:text-white"
-                >
-                  {item.name}
-                  <span className="text-[12px] opacity-40">
-                    ›
-                  </span>
-                </Link>
-              ))}
+{mobileMenuOpen && (
+  <div className="border-t border-white/6 bg-[#0b1630] lg:hidden">
+    <div className="flex flex-col gap-1 px-[22px] pb-[22px] pt-[14px]">
+      {/* Navigation items */}
+      {navigation.map((item) => (
+        <Link
+          key={item.id}
+          href={item.href as any}
+          onClick={() => setMobileMenuOpen(false)}
+          className="flex items-center justify-between rounded-[10px] border border-transparent px-[13px] py-[11px] text-[14px] font-medium text-white/60 transition-all hover:border-white/7 hover:bg-white/6 hover:text-white"
+        >
+          {item.name}
+          <span className="text-[12px] opacity-40">›</span>
+        </Link>
+      ))}
 
-              {/* FAQ */}
-              <Link
-                href="/faq"
-                onClick={() =>
-                  setMobileMenuOpen(false)
-                }
-                className="flex items-center justify-between rounded-[10px] border border-transparent px-[13px] py-[11px] text-[14px] font-medium text-white/60 transition-all hover:border-white/7 hover:bg-white/6 hover:text-white"
-              >
-                FAQ
-                <span className="text-[12px] opacity-40">
-                  ›
-                </span>
-              </Link>
+      <Link
+        href="/faq"
+        onClick={() => setMobileMenuOpen(false)}
+        className="flex items-center justify-between rounded-[10px] border border-transparent px-[13px] py-[11px] text-[14px] font-medium text-white/60 transition-all hover:border-white/7 hover:bg-white/6 hover:text-white"
+      >
+        FAQ
+        <span className="text-[12px] opacity-40">›</span>
+      </Link>
 
-              {/* Language switcher */}
-              <div className="mt-3">
-                <LanguageSwitcher />
-              </div>
+      <div className="mt-3">
+        <LanguageSwitcher />
+      </div>
 
-              {/* Mobile CTA */}
-              <Link
-                href="/contact"
-                onClick={() =>
-                  setMobileMenuOpen(false)
-                }
-                className="mt-3 block rounded-[11px] bg-[#3db54a] py-[13px] text-center text-[14px] font-bold text-white transition-colors hover:bg-[#30a83d]"
-              >
-                Plan gratis gesprek →
-              </Link>
-            </div>
-          </motion.div>
-        )}
-      </AnimatePresence>
+      <Link
+        href="/contact"
+        onClick={() => setMobileMenuOpen(false)}
+        className="mt-3 block rounded-[11px] bg-[#3db54a] py-[13px] text-center text-[14px] font-bold text-white transition-colors hover:bg-[#30a83d]"
+      >
+        Plan gratis gesprek →
+      </Link>
+    </div>
+  </div>
+)}
     </header>
   );
 }
