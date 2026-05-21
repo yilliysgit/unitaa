@@ -57,18 +57,21 @@ export default function Header({ navigation }: HeaderProps) {
           </div>
 
           {/* Mobile toggle */}
-          <button
-            type="button"
-            aria-label={mobileMenuOpen ? "Sluit menu" : "Open menu"}
-            aria-expanded={mobileMenuOpen}
-            onClick={() => setMobileMenuOpen((prev) => !prev)}
-            className="flex h-[38px] w-[38px] cursor-pointer flex-shrink-0 flex-col items-center justify-center gap-[5px] rounded-[9px] border border-white/12 bg-white/6 lg:hidden"
-          >
-            <span className={["block h-[1.5px] w-[17px] origin-center rounded-full bg-white/70 transition-transform duration-200", mobileMenuOpen ? "translate-y-[6.5px] rotate-45" : ""].join(" ")} />
-            <span className={["block h-[1.5px] w-[17px] rounded-full bg-white/70 transition-all duration-200", mobileMenuOpen ? "scale-x-0 opacity-0" : ""].join(" ")} />
-            <span className={["block h-[1.5px] w-[17px] origin-center rounded-full bg-white/70 transition-transform duration-200", mobileMenuOpen ? "-translate-y-[6.5px] -rotate-45" : ""].join(" ")} />
-          </button>
-        </div>
+<button
+  type="button"
+  aria-label={mobileMenuOpen ? "Sluit menu" : "Open menu"}
+  aria-expanded={mobileMenuOpen}
+  onClick={(e) => {
+    e.stopPropagation();
+    console.log("button clicked");
+    setMobileMenuOpen((prev) => !prev);
+  }}
+  className="flex h-[38px] w-[38px] cursor-pointer flex-shrink-0 flex-col items-center justify-center gap-[5px] rounded-[9px] border border-white/12 bg-white/6 lg:hidden"
+>
+  <span className={["block h-[1.5px] w-[17px] origin-center rounded-full bg-white/70 transition-transform duration-200", mobileMenuOpen ? "translate-y-[6.5px] rotate-45" : ""].join(" ")} />
+  <span className={["block h-[1.5px] w-[17px] rounded-full bg-white/70 transition-all duration-200", mobileMenuOpen ? "scale-x-0 opacity-0" : ""].join(" ")} />
+  <span className={["block h-[1.5px] w-[17px] origin-center rounded-full bg-white/70 transition-transform duration-200", mobileMenuOpen ? "-translate-y-[6.5px] -rotate-45" : ""].join(" ")} />
+</button>        </div>
       </div>
 
       {/* Green accent line */}
