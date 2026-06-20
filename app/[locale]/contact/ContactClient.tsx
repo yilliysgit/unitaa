@@ -1,6 +1,12 @@
+// client/app/[locale]/contact/ContactClient.tsx
+
 "use client";
 
-import { useState } from "react";
+import { useActionState, useState } from "react";
+import { useEffect } from "react";
+
+
+
 import {
   ArrowRight,
   Building2,
@@ -17,6 +23,8 @@ import {
 } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import { getLocalizedValue } from "@/sanity/lib/getLocalizedValue";
+import { sendContactEmail } from "@/app/actions/contact";
+
 
 const iconMap: Record<string, LucideIcon> = {
   Phone, MessageCircle, Mail, Clock, ShieldCheck, Users, Sparkles,
@@ -89,10 +97,28 @@ interface ContactClientProps {
   locale: string;
 }
 
-export default function ContactClient({ data, locale }: ContactClientProps) {
-  const t = (val?: LocaleString) => getLocalizedValue(val, locale);
 
-  const [isSubmitted, setIsSubmitted] = useState(false);
+
+
+export default function ContactClient({ data, locale }: ContactClientProps) {
+const t = (val?: LocaleString) => getLocalizedValue(val, locale);
+
+
+const [state, formAction, pending] = useActionState(sendContactEmail, {
+  success: false,
+  error: "",
+});
+
+
+useEffect(() => {
+  if (state.success) {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  }
+}, [state.success]);
+
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -100,14 +126,10 @@ export default function ContactClient({ data, locale }: ContactClientProps) {
     message: "",
   });
 
-  const handleSubmit = (e: React.FormEvent) => {
-    e.preventDefault();
-    console.log("Form data:", formData);
-    setIsSubmitted(true);
-  };
+ 
 
-  if (isSubmitted) {
-    return (
+if (state?.success) {
+      return (
       <main className="min-h-screen bg-[#f4f6fb] pt-32 pb-20">
         <div className="mx-auto max-w-[600px] px-6 text-center">
           <div className="rounded-2xl bg-white p-10 shadow-md border border-[#3db54a]/20">
@@ -196,12 +218,13 @@ export default function ContactClient({ data, locale }: ContactClientProps) {
                 {t(data?.formSubtitle)}
               </p>
 
-              <form onSubmit={handleSubmit} className="space-y-4">
-                <div>
+<form action={formAction} className="space-y-4">
+                    <div>
                   <label className="mb-1 block text-[13px] font-semibold text-[#0f1c3d]">
                     {t(data?.formLabelNaam)}
                   </label>
                   <input
+                    name="name"
                     type="text"
                     required
                     value={formData.name}
@@ -216,6 +239,7 @@ export default function ContactClient({ data, locale }: ContactClientProps) {
                     {t(data?.formLabelEmail)}
                   </label>
                   <input
+                  name="email"
                     type="email"
                     required
                     value={formData.email}
@@ -230,6 +254,7 @@ export default function ContactClient({ data, locale }: ContactClientProps) {
                     {t(data?.formLabelTelefoon)}
                   </label>
                   <input
+                  name="phone"
                     type="tel"
                     value={formData.phone}
                     onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
@@ -244,6 +269,7 @@ export default function ContactClient({ data, locale }: ContactClientProps) {
                   </label>
                   <textarea
                     rows={4}
+                    name="message"
                     value={formData.message}
                     onChange={(e) => setFormData({ ...formData, message: e.target.value })}
                     className="w-full rounded-xl border border-[#0f1c3d]/12 px-4 py-2.5 text-[14px] outline-none focus:border-[#3db54a] focus:ring-1 focus:ring-[#3db54a]"
@@ -252,12 +278,13 @@ export default function ContactClient({ data, locale }: ContactClientProps) {
                 </div>
 
                 <button
-                  type="submit"
-                  className="group flex w-full items-center justify-center gap-2 rounded-xl bg-[#0f1c3d] py-3.5 text-[14px] font-bold text-white transition-all hover:bg-[#162d57]"
-                >
-                  {t(data?.formButtonText)}
-                  <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
-                </button>
+  type="submit"
+  disabled={pending}
+  className="group flex w-full items-center justify-center gap-2 rounded-xl bg-[#0f1c3d] py-3.5 text-[14px] font-bold text-white transition-all hover:bg-[#162d57] disabled:opacity-60"
+>
+  {pending ? "Versturen..." : t(data?.formButtonText)}
+  <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
+</button>
 
                 <p className="text-center text-[11px] text-[#8a92a6]">
                   {t(data?.formDisclaimer)}{" "}

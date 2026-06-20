@@ -1,4 +1,5 @@
 import { defineQuery } from "groq";
+import { resend } from "./resend/resend";
 
 export const contactPageQuery = defineQuery(`
   *[_type == "contactPage"][0] {
@@ -47,3 +48,15 @@ export const contactPageQuery = defineQuery(`
     seoDescription
   }
 `);
+export async function testEmail() {
+    const { data, error } = await resend.emails.send({
+        from: "Unit AA <noreply@unitaa.nl>",
+        to: "info@unitaa.nl",
+        subject: "🎉 Resend werkt!",
+        html: "<h1>Gefeliciteerd!</h1><p>Je eerste e-mail via Resend is verzonden.</p>",
+    });
+
+    console.log({ data, error });
+
+    return { data, error };
+}
