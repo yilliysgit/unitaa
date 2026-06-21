@@ -12,8 +12,6 @@ export async function sendContactEmail(
  const phone = formData.get("phone") as string;
 const message = formData.get("message") as string;
 
- console.log(name);
-console.log(email);
 
 const { data, error } = await resend.emails.send({
   from: "Unit AA <info@unitaa.nl>",
@@ -69,8 +67,6 @@ const { data, error } = await resend.emails.send({
   `,
 });
 
-  console.log({ data, error });
-  console.log("Resend ID:", data?.id);
 
   // <-- GEEN return
   if (error) {
