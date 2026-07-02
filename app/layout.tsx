@@ -17,10 +17,8 @@ export default function RootLayout({
     <html lang="nl">
       <body className="min-h-full flex flex-col">
         {children}
+        <GoogleTagManager gtmId="GTM-WJ3BLV3Q" />
       </body>
-
-            <GoogleTagManager gtmId="GTM-GTM-WJ3BLV3Q" />
-
     </html>
-  ); 
+  );
 }
